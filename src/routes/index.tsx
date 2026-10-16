@@ -18,7 +18,7 @@ export const Route = createFileRoute("/")({
 });
 
 function Index() {
-  const e = elecciones[0];
+  const e = elecciones[0]!;
   return (
     <SiteFrame>
       <section className="mx-auto max-w-6xl px-5 pt-16 pb-20 grid lg:grid-cols-2 gap-14 items-center">

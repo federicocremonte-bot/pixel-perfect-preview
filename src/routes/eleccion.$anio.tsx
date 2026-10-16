@@ -179,7 +179,7 @@ function Resultados({ e, voto, onRevisar }: { e: Eleccion; voto: string; onRevis
   const [conteos, setConteos] = useState<Record<string, number> | null>(null);
   useEffect(() => { getConteos(e.id).then(setConteos); }, [e.id]);
   const totalHist = e.candidatos.reduce((s, c) => s + c.votos.valor, 0);
-  const ganador = [...e.candidatos].sort((a, b) => b.votos.valor - a.votos.valor)[0];
+  const ganador = [...e.candidatos].sort((a, b) => b.votos.valor - a.votos.valor)[0]!;
   const elegido = e.candidatos.find((c) => c.id === voto)!;
   const totalUsr = conteos ? Object.values(conteos).reduce((a, b) => a + b, 0) : 0;
   const next = elecciones[elecciones.findIndex((x) => x.id === e.id) + 1];
