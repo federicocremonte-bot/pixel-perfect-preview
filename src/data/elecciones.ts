@@ -22,6 +22,12 @@ export type Candidato = {
 
 export type Fuente = { titulo: string; url?: string };
 
+export type Jurisdiccion = {
+  id: string; // código del mapa (ISO 3166-2 sin "AR-")
+  estado: "voto" | "territorio";
+  ganador?: Dato<string>; // id de candidato; solo con fuente verificable
+};
+
 export type Eleccion = {
   id: string;
   anio: number;
@@ -33,6 +39,8 @@ export type Eleccion = {
   participacion: Dato<string>;
   explicacion: string;
   fuentes: Fuente[];
+  jurisdicciones: Jurisdiccion[];
+  notaMapa: string;
 };
 
 export type Periodo = {
@@ -162,6 +170,14 @@ export const elecciones: Eleccion[] = [
       { titulo: "Botana, N. «El orden conservador». Sudamericana, 1977." },
       { titulo: "Rock, D. «El radicalismo argentino, 1890-1930». Amorrortu, 1977." },
     ],
+    // 14 provincias + Capital Federal votaban; los territorios nacionales no elegían presidente.
+    // Ganadores por distrito: sin cargar hasta verificarlos contra fuentes oficiales.
+    jurisdicciones: [
+      ..."B C K X W E Y F M A J D S G T".split(" ").map((id) => ({ id, estado: "voto" as const })),
+      ..."H P N L Q R U Z V".split(" ").map((id) => ({ id, estado: "territorio" as const })),
+    ],
+    notaMapa:
+      "En 1916 votaban la Capital Federal y 14 provincias. Chaco, Formosa, Misiones, La Pampa, Neuquén, Río Negro, Chubut, Santa Cruz y Tierra del Fuego eran territorios nacionales: sus habitantes no elegían presidente. El mapa usa los límites actuales; el antiguo Territorio de Los Andes (hoy repartido entre Jujuy, Salta y Catamarca) no puede dibujarse por separado.",
   },
 ];
 
