@@ -10,33 +10,73 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as PerfilRouteImport } from './routes/perfil'
+import { Route as RecorridoRouteImport } from './routes/recorrido'
+import { Route as SobreRouteImport } from './routes/sobre'
+import { Route as EleccionAnioRouteImport } from './routes/eleccion.$anio'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const PerfilRoute = PerfilRouteImport.update({
+  id: '/perfil',
+  path: '/perfil',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const RecorridoRoute = RecorridoRouteImport.update({
+  id: '/recorrido',
+  path: '/recorrido',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const SobreRoute = SobreRouteImport.update({
+  id: '/sobre',
+  path: '/sobre',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const EleccionAnioRoute = EleccionAnioRouteImport.update({
+  id: '/eleccion/$anio',
+  path: '/eleccion/$anio',
+  getParentRoute: () => rootRouteImport,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/perfil': typeof PerfilRoute
+  '/recorrido': typeof RecorridoRoute
+  '/sobre': typeof SobreRoute
+  '/eleccion/$anio': typeof EleccionAnioRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/perfil': typeof PerfilRoute
+  '/recorrido': typeof RecorridoRoute
+  '/sobre': typeof SobreRoute
+  '/eleccion/$anio': typeof EleccionAnioRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/perfil': typeof PerfilRoute
+  '/recorrido': typeof RecorridoRoute
+  '/sobre': typeof SobreRoute
+  '/eleccion/$anio': typeof EleccionAnioRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/'
+  fullPaths: '/' | '/perfil' | '/recorrido' | '/sobre' | '/eleccion/$anio'
   fileRoutesByTo: FileRoutesByTo
-  to: '/'
-  id: '__root__' | '/'
+  to: '/' | '/perfil' | '/recorrido' | '/sobre' | '/eleccion/$anio'
+  id: '__root__' | '/' | '/perfil' | '/recorrido' | '/sobre' | '/eleccion/$anio'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  PerfilRoute: typeof PerfilRoute
+  RecorridoRoute: typeof RecorridoRoute
+  SobreRoute: typeof SobreRoute
+  EleccionAnioRoute: typeof EleccionAnioRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -48,11 +88,43 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/perfil': {
+      id: '/perfil'
+      path: '/perfil'
+      fullPath: '/perfil'
+      preLoaderRoute: typeof PerfilRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/recorrido': {
+      id: '/recorrido'
+      path: '/recorrido'
+      fullPath: '/recorrido'
+      preLoaderRoute: typeof RecorridoRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/sobre': {
+      id: '/sobre'
+      path: '/sobre'
+      fullPath: '/sobre'
+      preLoaderRoute: typeof SobreRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/eleccion/$anio': {
+      id: '/eleccion/$anio'
+      path: '/eleccion/$anio'
+      fullPath: '/eleccion/$anio'
+      preLoaderRoute: typeof EleccionAnioRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  PerfilRoute: PerfilRoute,
+  RecorridoRoute: RecorridoRoute,
+  SobreRoute: SobreRoute,
+  EleccionAnioRoute: EleccionAnioRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)

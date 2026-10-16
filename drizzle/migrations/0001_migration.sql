@@ -1,0 +1,1 @@
+UPDATE public.vote_counts SET count = 0 WHERE election_id = '1916';
