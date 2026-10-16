@@ -157,7 +157,7 @@ export const elecciones: Eleccion[] = [
     explicacion:
       "Yrigoyen ganó el voto popular, pero no obtuvo por sí solo la mayoría del Colegio Electoral. Su elección se definió cuando electores disidentes de Santa Fe se sumaron a su candidatura. Fue la primera vez que un partido opositor llegó al gobierno por elecciones.",
     fuentes: [
-      { title: "", titulo: "Cámara Nacional Electoral — Estadísticas históricas", url: "https://www.electoral.gob.ar/" } as unknown as Fuente,
+      { titulo: "Cámara Nacional Electoral — Estadísticas históricas", url: "https://www.electoral.gob.ar/" },
       { titulo: "Ley 8871 (Ley Sáenz Peña), 1912" },
       { titulo: "Botana, N. «El orden conservador». Sudamericana, 1977." },
       { titulo: "Rock, D. «El radicalismo argentino, 1890-1930». Amorrortu, 1977." },
