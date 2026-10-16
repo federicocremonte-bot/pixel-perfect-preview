@@ -1,6 +1,7 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { SiteFrame } from "@/components/SiteFrame";
 import { Boleta } from "@/components/Boleta";
+import { MapaElectoral } from "@/components/MapaElectoral";
 import { elecciones } from "@/data/elecciones";
 
 export const Route = createFileRoute("/")({
@@ -38,13 +39,16 @@ function Index() {
           </div>
           <p className="mt-6 text-xs text-muted-foreground">Simulación educativa: tu voto no modifica resultados oficiales.</p>
         </div>
-        <div className="relative h-[420px]" aria-hidden>
-          {e.candidatos.slice(0, 3).map((c, i) => (
-            <div key={c.id} className="absolute left-1/2 top-6 w-64"
-              style={{ transform: `translateX(-50%) translateX(${(i - 1) * 90}px) rotate(${(i - 1) * 7}deg)`, zIndex: i === 1 ? 2 : 1 }}>
-              <Boleta c={c} anio={e.anio} selected={i === 1} />
-            </div>
-          ))}
+        <div className="animate-fade-up">
+          <p className="eyebrow mb-3">Mapa electoral</p>
+          <MapaElectoral />
+        </div>
+      </section>
+
+      <section className="mx-auto max-w-6xl px-5 pb-16">
+        <p className="eyebrow">Boletas de {e.anio} · recreaciones de época</p>
+        <div className="mt-4 grid gap-5 sm:grid-cols-2 lg:grid-cols-4" aria-hidden>
+          {e.candidatos.map((c) => <Boleta key={c.id} c={c} anio={e.anio} />)}
         </div>
       </section>
 

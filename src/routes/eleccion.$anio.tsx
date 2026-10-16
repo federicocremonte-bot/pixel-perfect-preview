@@ -1,7 +1,7 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { useEffect, useState } from "react";
 import { SiteFrame, Pendiente } from "@/components/SiteFrame";
-import { Boleta } from "@/components/Boleta";
+import { Boleta, Urna } from "@/components/Boleta";
 import { elecciones, getEleccion, type Candidato, type Eleccion } from "@/data/elecciones";
 import { getConsent, getConteos, getVotos, registrarVotoAnonimo, saveVoto, setConsent, type Consent } from "@/lib/votes";
 import { cn } from "@/lib/utils";
@@ -164,13 +164,10 @@ function Deposito({ c, anio }: { c: Candidato; anio: number }) {
         <div className="absolute left-1/2 top-0 w-40 -translate-x-1/2 animate-drop z-0">
           <div className="ballot p-3 text-center rounded-sm"><div className="eyebrow">{anio}</div><div className="font-display text-sm">{c.nombre}</div></div>
         </div>
-        <div className="absolute bottom-0 left-1/2 h-36 w-56 -translate-x-1/2 border-2 border-primary bg-card z-10">
-          <div className="mx-auto -mt-1 h-2 w-28 bg-primary" />
-          <div className="mt-8 text-center font-display text-primary">URNA</div>
-          <div className="eyebrow text-center mt-1">Nación Argentina</div>
-        </div>
+        <Urna anio={anio} />
       </div>
       <p className="mt-8 text-muted-foreground">Tu voto fue depositado.</p>
+      <p className="mt-1 text-xs text-muted-foreground">Urna: interpretación artística, no reproduce un modelo histórico documentado.</p>
     </div>
   );
 }
