@@ -39,28 +39,28 @@
 
 :root {
   --radius: 0.25rem;
-  --background: oklch(0.945 0.016 84);
+  --background: oklch(0.9 0.02 82);
   --foreground: oklch(0.2 0.05 260);
-  --card: oklch(0.972 0.01 85);
+  --card: oklch(0.935 0.016 84);
   --card-foreground: oklch(0.2 0.05 260);
-  --popover: oklch(0.972 0.01 85);
+  --popover: oklch(0.935 0.016 84);
   --popover-foreground: oklch(0.2 0.05 260);
-  --primary: oklch(0.26 0.09 262);
+  --primary: oklch(0.22 0.085 262);
   --primary-foreground: oklch(0.97 0.012 85);
-  --secondary: oklch(0.91 0.018 84);
+  --secondary: oklch(0.86 0.022 82);
   --secondary-foreground: oklch(0.26 0.09 262);
-  --muted: oklch(0.9 0.017 84);
-  --muted-foreground: oklch(0.42 0.03 260);
-  --accent: oklch(0.8 0.065 230);
+  --muted: oklch(0.85 0.02 82);
+  --muted-foreground: oklch(0.36 0.03 260);
+  --accent: oklch(0.72 0.07 230);
   --accent-foreground: oklch(0.22 0.07 262);
   --destructive: oklch(0.52 0.18 27);
   --destructive-foreground: oklch(0.97 0.01 85);
-  --border: oklch(0.81 0.024 84);
-  --input: oklch(0.81 0.024 84);
+  --border: oklch(0.75 0.028 82);
+  --input: oklch(0.75 0.028 82);
   --ring: oklch(0.62 0.1 235);
   --paper: oklch(0.95 0.026 86);
   --ink: oklch(0.18 0.04 262);
-  --celeste: oklch(0.68 0.1 232);
+  --celeste: oklch(0.6 0.1 234);
   --warning: oklch(0.9 0.07 85);
   --warning-foreground: oklch(0.38 0.09 65);
   --map-pending: oklch(0.78 0.035 240);
@@ -129,3 +129,21 @@
   .animate-drop, .animate-fade-up { animation: none !important; }
   .animate-drop { opacity: 0; }
 }
+
+@keyframes firma-drift {
+  0% { transform: translateX(-30vw) rotate(-6deg); opacity: 0; }
+  15%, 75% { opacity: var(--firma-op, 0.14); }
+  100% { transform: translateX(105vw) rotate(-3deg); opacity: 0; }
+}
+@utility animate-firma { animation: firma-drift 38s linear infinite both; }
+@utility papel-1916 {
+  background-color: oklch(0.93 0.035 85);
+  background-image:
+    linear-gradient(180deg, transparent 49.5%, oklch(0.35 0.04 60 / 0.12) 50%, oklch(1 0 0 / 0.25) 50.6%, transparent 51.5%),
+    radial-gradient(ellipse at 20% 10%, oklch(0.75 0.06 70 / 0.18), transparent 60%),
+    radial-gradient(oklch(0.4 0.05 60 / 0.07) 1px, transparent 1px);
+  background-size: 100% 100%, 100% 100%, 3px 3px;
+  clip-path: polygon(0 1%, 4% 0, 12% .8%, 22% 0, 35% .6%, 48% 0, 60% .7%, 73% 0, 86% .9%, 100% 0, 99.4% 50%, 100% 100%, 88% 99.2%, 70% 100%, 52% 99.3%, 34% 100%, 16% 99.1%, 0 100%, .6% 50%);
+}
+@utility tinta-1916 { text-shadow: 0.3px 0.2px 0 currentColor, -0.2px 0 0 oklch(0.2 0.03 60 / 0.4); }
+@media (prefers-reduced-motion: reduce) { .animate-firma { animation: none !important; opacity: var(--firma-op, 0.1); } }
