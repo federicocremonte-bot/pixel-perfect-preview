@@ -18,6 +18,15 @@ export type Candidato = {
   electores: Dato<number>;
   ejes: Record<Eje, number>; // -2 a 2, interpretación orientativa
   justificacionEjes: string;
+  boleta?: EstiloBoleta;
+};
+
+// Apariencia de la boleta. Solo cargar colores con respaldo histórico; si no hay, queda en tinta negra.
+export type EstiloBoleta = {
+  color?: string; // color de identidad partidaria (CSS)
+  colorSecundario?: string;
+  notaColor: string; // de dónde sale el color, o por qué no se usa
+  verificado: boolean;
 };
 
 export type Fuente = { titulo: string; url?: string };
@@ -94,6 +103,7 @@ export const elecciones: Eleccion[] = [
         ejes: { participacion: 2, estado: 1, social: 1 },
         justificacionEjes:
           "Fuerte énfasis en la ampliación del voto; mayor intervención estatal que el régimen anterior; apertura moderada a demandas sociales.",
+        boleta: { color: "oklch(0.5 0.19 27)", colorSecundario: "oklch(0.97 0.01 85)", notaColor: "Rojo y blanco: colores de la bandera radical usada desde la Revolución del Parque (1890) y la boina blanca. La impresión original de 1916 era tipográfica; el detalle exacto de esta boleta no está documentado.", verificado: false },
       },
       {
         id: "rojas",
@@ -115,6 +125,7 @@ export const elecciones: Eleccion[] = [
         ejes: { participacion: -1, estado: -1, social: -1 },
         justificacionEjes:
           "Expresaba la continuidad del régimen previo a la reforma, con un Estado de menor intervención y poca apertura a reformas sociales.",
+        boleta: { notaColor: "No encontramos documentación sobre colores propios en 1916: se muestra impresión sencilla en tinta negra.", verificado: false },
       },
       {
         id: "delatorre",
@@ -137,6 +148,7 @@ export const elecciones: Eleccion[] = [
         ejes: { participacion: 1, estado: 0, social: 1 },
         justificacionEjes:
           "Apoyaba la democratización y reformas institucionales, sin una propuesta fuerte de intervención estatal.",
+        boleta: { notaColor: "No encontramos documentación sobre colores propios en 1916: se muestra impresión sencilla en tinta negra.", verificado: false },
       },
       {
         id: "justo",
@@ -159,6 +171,7 @@ export const elecciones: Eleccion[] = [
         ejes: { participacion: 2, estado: 1, social: 2 },
         justificacionEjes:
           "Defendía la ampliación de derechos políticos y una agenda fuerte de reformas laborales y sociales.",
+        boleta: { color: "oklch(0.45 0.17 25)", notaColor: "Rojo: color de la bandera del Partido Socialista. El diseño exacto de la boleta de 1916 no está documentado.", verificado: false },
       },
     ],
     participacion: { valor: "Cerca del 62 % del padrón", verificado: false },
