@@ -52,7 +52,7 @@ function Index() {
       </p>
       </div>
 
-      <section className="mx-auto max-w-6xl px-5 pb-16">
+      <section className="mx-auto max-w-6xl px-5 pt-10 pb-16">
         <p className="eyebrow">Boletas de {e.anio} · recreaciones de época</p>
         <div className="mt-4 grid gap-5 sm:grid-cols-2 lg:grid-cols-4" aria-hidden>
           {e.candidatos.map((c) => <Boleta key={c.id} c={c} anio={e.anio} />)}
