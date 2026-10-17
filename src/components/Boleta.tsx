@@ -10,24 +10,32 @@ export function Boleta({
 }: { c: Candidato; anio: number; selected?: boolean; onSelect?: () => void; className?: string }) {
   const era = eraDe(anio);
   if (era === "1910") {
+    const col = c.boleta?.color;
+    const ink = col ?? "var(--ink)";
     return (
       <button type="button" onClick={onSelect} aria-pressed={selected} aria-label={`Boleta de ${c.partido}: ${c.nombre} y ${c.formula}`}
-        className={cn("ballot ballot-1910 relative w-full p-2 rounded-[2px] cursor-pointer text-center", selected && "ballot-active", className)}>
-        <div className="border-[3px] border-double border-ink/70 p-4">
-          <div className="flex items-center justify-center gap-2 text-ink/60">
-            <span className="h-px flex-1 bg-ink/40" />
-            <span className="font-display text-[10px] tracking-[0.35em]">✦ {anio} ✦</span>
-            <span className="h-px flex-1 bg-ink/40" />
-          </div>
-          <div className="mt-3 font-display text-xl font-semibold uppercase leading-tight tracking-wide text-ink">{c.partido}</div>
-          <div className="mt-1 font-display text-xs italic text-ink/70">Electores de Presidente y Vice-Presidente de la Nación</div>
-          <div className="my-3 h-[3px] border-y border-ink/50" />
-          <div className="font-display text-[10px] uppercase tracking-[0.3em] text-ink/60">Para Presidente</div>
-          <div className="font-display text-lg uppercase text-ink">{c.nombre}</div>
-          <div className="mt-2 font-display text-[10px] uppercase tracking-[0.3em] text-ink/60">Para Vice-Presidente</div>
-          <div className="font-display text-sm uppercase text-ink">{c.formula}</div>
-          <div className="mt-3 flex items-center justify-between text-[9px] text-ink/50">
-            <span>Recreación de época</span>
+        title={c.boleta?.notaColor}
+        className={cn("group relative w-full cursor-pointer text-center transition-transform duration-300", selected ? "-translate-y-1.5" : "hover:-translate-y-0.5", className)}
+        style={{ filter: selected ? "drop-shadow(0 0 0 var(--primary)) drop-shadow(0 18px 22px oklch(0.2 0.08 262 / 0.55))" : "drop-shadow(0 10px 14px oklch(0.2 0.06 262 / 0.35))" }}>
+        <div className="papel-1916 px-4 pt-5 pb-4 text-ink">
+          {col ? (
+            <div className="mx-auto mb-3 flex h-3 w-full overflow-hidden">
+              <span className="flex-1" style={{ background: col }} />
+              <span className="flex-1" style={{ background: c.boleta?.colorSecundario ?? "transparent" }} />
+              <span className="flex-1" style={{ background: col }} />
+            </div>
+          ) : <div className="mb-3 h-[3px] border-y border-ink/70" />}
+          <div className="font-display text-[9px] tracking-[0.4em] text-ink/70">— ELECCIÓN DE {anio} —</div>
+          <div className="tinta-1916 mt-2 font-display text-[1.35rem] font-black uppercase leading-[1.05] tracking-tight" style={{ color: ink }}>{c.partido}</div>
+          <div className="mx-auto my-2 w-16 border-t border-ink/60" />
+          <div className="font-display text-[11px] italic leading-snug text-ink/80">Lista de Electores de<br />Presidente y Vice-Presidente<br />de la Nación</div>
+          <div className="my-3 flex items-center gap-2 text-ink/50"><span className="h-px flex-1 bg-current" /><span className="text-[9px]">❦</span><span className="h-px flex-1 bg-current" /></div>
+          <div className="text-[9px] uppercase tracking-[0.3em] text-ink/60">Candidato a Presidente</div>
+          <div className="tinta-1916 font-display text-lg font-semibold uppercase leading-tight">{c.nombre}</div>
+          <div className="mt-2 text-[9px] uppercase tracking-[0.3em] text-ink/60">Candidato a Vice-Presidente</div>
+          <div className="tinta-1916 font-display text-sm uppercase">{c.formula}</div>
+          <div className="mt-4 border-t border-dashed border-ink/40 pt-2 flex items-center justify-between text-[9px] text-ink/55">
+            <span>Recreación documentada · no es facsímil</span>
             <span className={cn("h-4 w-4 rounded-full border-2 border-ink/70", selected && "bg-primary border-primary")} />
           </div>
         </div>
