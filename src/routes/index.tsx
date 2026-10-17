@@ -1,6 +1,7 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { SiteFrame } from "@/components/SiteFrame";
 import { Boleta } from "@/components/Boleta";
+import { FondoPortada, firmas } from "@/components/FondoPortada";
 import { MapaElectoral } from "@/components/MapaElectoral";
 import { elecciones } from "@/data/elecciones";
 
@@ -22,7 +23,9 @@ function Index() {
   const e = elecciones[0]!;
   return (
     <SiteFrame>
-      <section className="mx-auto max-w-6xl px-5 pt-16 pb-20 grid lg:grid-cols-2 gap-14 items-center">
+      <div className="relative isolate">
+      <FondoPortada />
+      <section className="relative mx-auto max-w-6xl px-5 pt-16 pb-20 grid lg:grid-cols-2 gap-14 items-center">
         <div className="animate-fade-up">
           <p className="eyebrow">Expediente N.º 1 · Desde 1916</p>
           <h1 className="mt-4 text-5xl sm:text-6xl leading-[1.02] text-primary">
@@ -44,6 +47,10 @@ function Index() {
           <MapaElectoral />
         </div>
       </section>
+      <p className="relative mx-auto max-w-6xl px-5 pb-3 text-[10px] text-muted-foreground">
+        Firmas de fondo: {firmas.map((f, i) => <span key={f.presidente}>{i ? " · " : ""}<a className="underline" href={f.fuente} target="_blank" rel="noreferrer">{f.presidente}</a></span>)} (Wikimedia Commons, {firmas[0]!.licencia.toLowerCase()}).
+      </p>
+      </div>
 
       <section className="mx-auto max-w-6xl px-5 pb-16">
         <p className="eyebrow">Boletas de {e.anio} · recreaciones de época</p>

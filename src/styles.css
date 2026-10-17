@@ -131,9 +131,9 @@
 }
 
 @keyframes firma-drift {
-  0% { transform: translateX(-10%) rotate(-6deg); opacity: 0; }
+  0% { transform: translateX(-30vw) rotate(-6deg); opacity: 0; }
   15%, 75% { opacity: var(--firma-op, 0.14); }
-  100% { transform: translateX(40%) rotate(-3deg); opacity: 0; }
+  100% { transform: translateX(105vw) rotate(-3deg); opacity: 0; }
 }
 @utility animate-firma { animation: firma-drift 38s linear infinite both; }
 @utility papel-1916 {
