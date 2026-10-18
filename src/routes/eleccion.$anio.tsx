@@ -36,7 +36,9 @@ function Page() {
   useEffect(() => {
     setC(getConsent());
     const v = getVotos()[id];
-    if (v) { setVoto(v); setSel(v); setFase("resultados"); }
+    const valido = v && e.candidatos.some((c) => c.id === v);
+    if (valido) { setVoto(v); setSel(v); setFase("resultados"); }
+    else { setVoto(null); setSel(null); setFase("ficha"); }
   }, [id]);
 
   const confirmar = async (c: Consent) => {
@@ -177,7 +179,7 @@ function Resultados({ e, voto, onRevisar }: { e: Eleccion; voto: string; onRevis
   useEffect(() => { getConteos(e.id).then(setConteos); }, [e.id]);
   const totalHist = e.candidatos.reduce((s, c) => s + c.votos.valor, 0);
   const ganador = [...e.candidatos].sort((a, b) => b.votos.valor - a.votos.valor)[0]!;
-  const elegido = e.candidatos.find((c) => c.id === voto)!;
+  const elegido = e.candidatos.find((c) => c.id === voto) ?? ganador;
   const totalUsr = conteos ? Object.values(conteos).reduce((a, b) => a + b, 0) : 0;
   const next = elecciones[elecciones.findIndex((x) => x.id === e.id) + 1];
 
