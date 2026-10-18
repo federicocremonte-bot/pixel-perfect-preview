@@ -238,7 +238,7 @@ function Resultados({ e, voto, onRevisar }: { e: Eleccion; voto: string; onRevis
           : <Link to="/perfil" className="rounded-sm bg-primary px-6 py-3 text-primary-foreground">Ver tu perfil político →</Link>}
         <button onClick={onRevisar} className="rounded-sm border border-border px-6 py-3">Revisar la ficha</button>
       </div>
-      <p className="mt-4 text-sm text-muted-foreground">Por ahora solo está disponible 1916; las próximas elecciones se irán sumando.</p>
+      <p className="mt-4 text-sm text-muted-foreground">Por ahora están disponibles 1916, 1922 y 1928; las próximas elecciones se irán sumando.</p>
     </div>
   );
 }
