@@ -1,6 +1,6 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { SiteFrame } from "@/components/SiteFrame";
-import { periodos } from "@/data/elecciones";
+import { periodos, getEleccion } from "@/data/elecciones";
 import { cn } from "@/lib/utils";
 
 export const Route = createFileRoute("/recorrido")({
@@ -41,7 +41,7 @@ function Recorrido() {
             return (
               <li key={p.anio} className="relative">
                 <span className={cn("absolute -left-[5px] top-7 h-2.5 w-2.5 rounded-full", p.estado === "disponible" ? "bg-primary" : p.estado === "proximamente" ? "bg-border" : "bg-destructive")} />
-                {p.estado === "disponible" ? <Link to="/eleccion/$anio" params={{ anio: String(p.anio) }} className="block hover:bg-card">{body}</Link> : body}
+                {getEleccion(String(p.anio)) ? <Link to="/eleccion/$anio" params={{ anio: String(p.anio) }} className="block hover:bg-card">{body}</Link> : body}
               </li>
             );
           })}
