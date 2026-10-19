@@ -110,6 +110,8 @@ function Ficha({ e }: { e: Eleccion }) {
         <span className="font-display text-7xl sm:text-8xl text-primary leading-none">{e.anio}</span>
         <h1 className="text-3xl sm:text-4xl italic max-w-lg">{e.titulo}</h1>
       </div>
+      {e.fecha && <p className="mt-3 text-sm text-muted-foreground">Fecha: {e.fecha}</p>}
+      {e.restriccion && <p className="mt-6 max-w-3xl border-l-4 border-destructive bg-card p-4 text-sm"><strong className="text-destructive">Elección no comparable. </strong>{e.restriccion}</p>}
       <div className="mt-10 grid md:grid-cols-2 gap-10">
         <div><h2 className="text-xl text-primary">Contexto histórico</h2>{e.contexto.map((p) => <p key={p} className="mt-3 text-muted-foreground">{p}</p>)}</div>
         <div><h2 className="text-xl text-primary">Sistema electoral</h2><ul className="mt-3 space-y-3">{e.sistema.map((p) => <li key={p} className="border-l-2 border-celeste pl-3 text-muted-foreground">{p}</li>)}</ul></div>
@@ -201,14 +203,14 @@ function Resultados({ e, voto, onRevisar }: { e: Eleccion; voto: string; onRevis
                 <li key={c.id}>
                   <div className="flex justify-between text-sm"><span className={cn(c.id === voto && "font-semibold text-primary")}>{c.nombre}</span><span className="font-mono">{pct.toFixed(1)} %</span></div>
                   <div className="mt-1 h-2 bg-muted"><div className="h-full bg-primary" style={{ width: `${pct}%` }} /></div>
-                  <div className="mt-1 text-xs text-muted-foreground">{c.votos.valor.toLocaleString("es-AR")} votos · {c.electores.valor} electores{(!c.votos.verificado || !c.electores.verificado) && <Pendiente />}</div>
+                  <div className="mt-1 text-xs text-muted-foreground">{c.votos.valor.toLocaleString("es-AR")} votos{!e.directa && ` · ${c.electores.valor} electores`}{(!c.votos.verificado || !c.electores.verificado) && <Pendiente />}</div>
                 </li>
               );
             })}
           </ul>
           <p className="mt-5 text-sm text-muted-foreground">Participación: {e.participacion.valor}{!e.participacion.verificado && <Pendiente />}</p>
           <p className="mt-3 text-sm">{e.explicacion}</p>
-          <p className="mt-3 text-xs text-muted-foreground">Porcentajes calculados sobre los votos de estas cuatro candidaturas.</p>
+          <p className="mt-3 text-xs text-muted-foreground">Porcentajes calculados sobre la suma de votos de las candidaturas listadas, no sobre el total de votos emitidos.</p>
         </section>
 
         <section className="border border-border bg-card p-6">
@@ -240,7 +242,7 @@ function Resultados({ e, voto, onRevisar }: { e: Eleccion; voto: string; onRevis
           : <Link to="/perfil" className="rounded-sm bg-primary px-6 py-3 text-primary-foreground">Ver tu perfil político →</Link>}
         <button onClick={onRevisar} className="rounded-sm border border-border px-6 py-3">Revisar la ficha</button>
       </div>
-      <p className="mt-4 text-sm text-muted-foreground">Por ahora están disponibles 1916, 1922 y 1928; las próximas elecciones se irán sumando.</p>
+      <p className="mt-4 text-sm text-muted-foreground">Por ahora están disponibles {elecciones.map((x) => x.anio).join(", ")}; las próximas elecciones se irán sumando.</p>
     </div>
   );
 }
