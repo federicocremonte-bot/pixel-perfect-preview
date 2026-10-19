@@ -203,7 +203,7 @@ function Resultados({ e, voto, onRevisar }: { e: Eleccion; voto: string; onRevis
                 <li key={c.id}>
                   <div className="flex justify-between text-sm"><span className={cn(c.id === voto && "font-semibold text-primary")}>{c.nombre}</span><span className="font-mono">{pct.toFixed(1)} %</span></div>
                   <div className="mt-1 h-2 bg-muted"><div className="h-full bg-primary" style={{ width: `${pct}%` }} /></div>
-                  <div className="mt-1 text-xs text-muted-foreground">{c.votos.valor.toLocaleString("es-AR")} votos{!e.directa && ` · ${c.electores.valor} electores`}{(!c.votos.verificado || !c.electores.verificado) && <Pendiente />}</div>
+                  <div className="mt-1 text-xs text-muted-foreground">{c.votos.valor.toLocaleString("es-AR")} votos{!e.directa && (c.electores.valor === 0 && !c.electores.verificado ? " · electores: pendiente" : ` · ${c.electores.valor} electores`)}{(!c.votos.verificado || !c.electores.verificado) && <Pendiente />}</div>
                 </li>
               );
             })}
