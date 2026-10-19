@@ -1,0 +1,1768 @@
+{{Ficha de elección
+| compacto = sí
+| ancho = 60
+| nombre_elección = Elecciones presidenciales de 1963
+| endisputa = <small>Presidente para el período 1963-1969</small><br/><small>476 electores para elegir al [[Presidente de la Nación Argentina|Presidente de la Nación]]<br />239 electores necesarios para ganar</small>
+| país = Argentina
+| tipo = [[Presidente de Argentina|Presidencial]]
+| período = 12 de octubre de 1963<br/>12 de octubre de 1969
+| encurso = no
+| elección_anterior = Elecciones presidenciales de Argentina de 1958
+| fecha_anterior = 1958
+| siguiente_elección = Elecciones presidenciales de Argentina de marzo de 1973
+| siguiente_fecha = Mar. 1973
+| fecha_elección = Domingo 7 de julio de 1963
+| participación = 85.50
+| participación_ant = 90.86
+| registrados = 11356240
+| votantes = 9710116
+| nulos = 173696
+| blancos =  1884435 (21,56%)
+| válidos = 7651985
+
+<!-- Arturo Umberto Illia -->
+| imagen1 = File:Arturo_Umberto_Illia_1965.jpg
+| candidato1 = [[Arturo Umberto Illia]]
+| color1 = {{Color político|Unión Cívica Radical del Pueblo}}
+| partido1 = [[Unión Cívica Radical del Pueblo|UCRP]]
+| votos1 = 2441064
+| porcentaje1 = 26.78
+| voto_electoral1 = 168
+
+ <!-- Oscar Alende -->
+| imagen2 = Archivo:Oscar Alende.png
+| candidato2 = [[Oscar Alende]]
+| color2 = {{Color político|Unión Cívica Radical Intransigente}}
+| partido2 = [[Unión Cívica Radical Intransigente|UCRI]]
+
+| votos2 = 1593002
+| porcentaje2 = 18.18
+| voto_electoral2 = 110
+
+<!-- Pedro Eugenio Aramburu -->
+| imagen3 = Archivo:Aramburu2.jpg
+| candidato3 = [[Pedro Eugenio Aramburu]]
+| color3 = {{Color político|Unión del Pueblo Argentino}}
+| partido3 = [[Unión del Pueblo Argentino|UDELPA]]
+| partido1_coalición3 = [[Unión del Pueblo Argentino]]
+| partido2_coalición3 = [[Partido Demócrata Progresista]]
+| votos3 = 1362596
+| porcentaje3 = 16.55
+| voto_electoral3 = 75
+
+<!-- Emilio Olmos -->
+| imagen4 = Archivo:Emilio_Olmos_hijo.png
+| candidato4 = [[Emilio Olmos (hijo)|Emilio Olmos]]
+| color4 = royalblue
+| partido4 = [[Partido Demócrata de Córdoba|PD]]
+| coalición4 = [[Federación Nacional de Partidos de Centro|Fed. de Partidos de Centro]]
+| partido1_coalición4 = [[Partido Demócrata Nacional|Partido Demócrata]]
+| partido2_coalición4 = [[Partido Demócrata de Buenos Aires|Unión Conservadora]]
+| partido3_coalición4 = Partido Conservador
+| partido4_coalición4 = [[Partido Demócrata Liberal (Argentina)|Partido Demócrata Liberal]]
+| partido5_coalición4 = Partido Demócrata Conservador
+| partido6_coalición4 = Unión Provincial
+| partido7_coalición4 = Partido Demócrata Popular<br/>Partido Liberal de Misiones
+| votos4 = 511779
+| porcentaje4 = 5.84
+| voto_electoral4 = 31
+
+<!-- Horacio Sueldo -->
+| imagen5 = Archivo:Horacio Sueldo.jpg
+| candidato5 = [[Horacio Sueldo]]
+| partido5 = [[Partido Demócrata Cristiano (Argentina)|PDC]]
+| color5 = {{Color político|Partido Demócrata Cristiano (Argentina)}}
+| votos5 = 434823
+| porcentaje5 = 4.96
+| voto_electoral5 = 23
+
+<!-- Alfredo Palacios -->
+| imagen6 = Archivo:Alfredo_Palacios.jpeg
+| partido6 = [[Partido Socialista Argentino|PSA]]
+| color6 = {{Color político|Partido Socialista Argentino}}
+| candidato6 = [[Alfredo Palacios]]
+| votos6 = 278856
+| porcentaje6 = 3.18
+| voto_electoral6 = 12
+
+<!-- Alfredo Orgaz -->
+| imagen7 = Archivo:Alfredo_Orgaz.png
+| partido7 = [[Partido Socialista Democrático (Argentina)|PSD]]
+| color7 = {{Color político|Partido Socialista Democrático (Argentina)}}
+| candidato7 = [[Alfredo Orgaz]]
+| votos7 = 258787
+| porcentaje7 = 2.95
+| voto_electoral7 = 10
+
+| mapa_título = Mapa del resultado de la elección
+| mapa = Archivo:Elecciones presidenciales de Argentina 1963.svg
+| mapa_tamaño = 200px
+| leyenda_mapa1 = {{leyenda|{{Color político|Unión Cívica Radical del Pueblo}}|[[Arturo Umberto Illia|Illia]]|texto2=12|color2=white}} {{leyenda|{{Color político|Unión Cívica Radical Intransigente}}|[[Oscar Alende|Alende]]|texto2=&nbsp;4|color2=white}} {{leyenda|#4169E1|[[Emilio Olmos (hijo)|Olmos]]|texto2=&nbsp;3|color2=white}} {{leyenda|{{Color político|Unión del Pueblo Argentino}}|[[Pedro Eugenio Aramburu|Aramburu]]|texto2=&nbsp;1|color2=white}}
+| leyenda_mapa2 = {{leyenda|#75AADB|{{Abreviatura|MFD|Movimiento Federal Democrático}}|texto2=&nbsp;1|color2=white}} {{leyenda|{{Color político|Partido Bloquista de San Juan}}|[[Partido Bloquista de San Juan|UCR Bloquista]]|texto2=&nbsp;1|color2=white}} {{leyenda|{{Color político|Movimiento Popular Neuquino}}|[[Movimiento Popular Neuquino|MPN]]|texto2=&nbsp;1|color2=white}}
+
+| cargo = [[Archivo:Coat of arms of Argentina.svg|34px]]<br/>[[Presidente de la Nación Argentina]]
+| predecesor = [[José María Guido]]
+| partido_predecesor = [[Unión Cívica Radical Intransigente|UCRI]]
+| sucesor = [[Arturo Umberto Illia]]
+| partido_sucesor = [[Unión Cívica Radical del Pueblo|UCRP]]
+}}
+
+Las '''elecciones presidenciales de Argentina de 1963''' tuvieron como resultado la elección de [[Arturo Illia]], de la [[Unión Cívica Radical del Pueblo]], quien venció al también radical, [[Oscar Alende]], de la [[Unión Cívica Radical Intransigente]]. Fueron organizadas por el gobierno encabezado por [[José María Guido]] que había sustituido al presidente [[Arturo Frondizi]] derrocado por un golpe de Estado y asumido ilegalmente el poder legislativo y los poderes provinciales, siendo discutible si se trató de un presidente ''de facto'', o simplemente un presidente no constitucional que, impulsado por el propio Frondizi, buscó evitar que tomara el poder una dictadura militar.<ref name="moh"/> Las elecciones se realizaron con el expresidente Frondizi detenido e impedido de participar en las mismas y todos los ciudadanos [[peronistas]] proscriptos para presentar sus candidaturas, incluyendo también al expresidente [[Juan Domingo Perón]] que había tenido que exiliarse.<ref name="Pigna_1">{{cita web|url=http://www.elhistoriador.com.ar/biografias/f/frondizi.php|título=Arturo Frondizi|editorial=El Historiador|fecha=|fechaacceso=29 de octubre de 2013|autor=Pigna, Felipe|urlarchivo=https://web.archive.org/web/20091014225338/http://www.elhistoriador.com.ar/biografias/f/frondizi.php|fechaarchivo=14 de octubre de 2009}}</ref> Dos días antes de las elecciones el gobierno prohibió la presentación de la lista del [[Partido Demócrata Cristiano (Argentina)|Partido Demócrata Cristiano]], debido a que estaba encabezada por el neurocirujano [[Raúl Matera]] que militaba en el peronismo.<ref>Decreto-ley 5478/63. {{cita web|url=https://www.ancmyp.org.ar/user/files/Hirschmann.I.14.pdf|página=17|obra=Anales de la Academia Nacional de Ciencias Morales y Políticas|apellido=Hirschmann|nombre=Pablo|fecha=16 de abril de 2014|título=El peronismo, las elecciones y la duración de los mandatos presidenciales. Una cronología crítica}}</ref> Fue una de las cuatro elecciones presidenciales en la que los dos principales candidatos fueron [[Radicalismo (Argentina)|radicales]].<ref>En cuatro elecciones presidenciales de Argentina los dos principales candidatos fueron radicales: [[elecciones presidenciales de Argentina de 1928|1928]] (Yrigoyen vs. Melo), [[elecciones presidenciales de Argentina de 1937|1937]] (Ortiz vs. Alvear), [[elecciones presidenciales de Argentina de 1958|1958]] (Frondizi vs. Balbín) y [[elecciones presidenciales de Argentina de 1963|1963]] (Illia vs. Alende).</ref>
+
+Debido a las severas restricciones que pesaban sobre el derecho a elegir y ser elegido, los simpatizantes de los candidatos proscriptos, como Perón o Frondizi, se expresaron mayoritariamente mediante el [[voto en blanco]], que alcanzó el 19,41% de las preferencias, que no fueron contabilizados como votos «válidos». Illia obtuvo solo el 25,14% del total de votos emitidos, lo que condicionaría severamente su presidencia. Efectivamente, Illia no pudo finalizar el mandato debido a que fue derrocado por un [[Golpe de Estado en Argentina de 1966|golpe de Estado el 28 de junio de 1966]].
+
+Debido a que la dictadura autodenominada [[Revolución Libertadora (Argentina)|Revolución Libertadora]] había restablecido el texto de la [[Constitución argentina de 1853|Constitución de 1853]], las elecciones utilizaron el sistema de [[sufragio indirecto|elección indirecta]] del presidente y su vice, mediante la delegación de la elección en un [[Colegio Electoral de la Argentina|Colegio Electoral]] integrado por representantes elegidos en los 24 distritos entonces existentes (23 provincias y la Capital Federal), debido al proceso de provincialización de los [[territorio nacional (Argentina)|territorios nacionales]] iniciado en 1951. Los habitantes del único territorio nacional restante, [[Territorio nacional de la Tierra del Fuego, Antártida e Islas del Atlántico Sur|Tierra del Fuego, Islas del Atlántico Sur y la Antártida]], fueron incorporados al padrón de la Capital Federal. 
+
+Las elecciones de 1963 formaron parte de un período de gobiernos de legitimidad cuestionada, que Cavarozzi llamó "semi-democracia", en la que se avaló la abolición de la Constitución por parte una dictadura, seguida de la imposición de un nuevo texto constitucional sin cumplir con el procedimiento legal, a la vez que fueron proscriptos el peronismo y luego el frondizismo y perseguidos miles de dirigentes políticos.<ref>La democracia inestable, Volumen 2, [[Antonio Emilio Castello]], Ediciones La Bastilla, 1986</ref>
+
+== Antecedentes ==
+=== Gobierno de Frondizi y golpe de 1962 ===
+{{AP|Elecciones legislativas de Argentina de 1962|Golpe de Estado en Argentina de 1962}}
+El presidente Arturo Frondizi había logrado su [[Elecciones presidenciales de Argentina de 1958|victoria electoral de 1958]] gracias al apoyo del [[peronismo]], proscripto desde el [[Golpe de Estado en Argentina de septiembre de 1955|golpe de Estado de 1955]], con su partido, la [[Unión Cívica Radical Intransigente]] (UCRI), siendo una facción de la [[Unión Cívica Radical|UCR]] original, siendo la otra la [[Unión Cívica Radical del Pueblo]] (UCRP). En este escenario, el nuevo presidente había llegado al poder condicionado desde el inicio por su dependencia electoral del peronismo e institucional de los militares, ambos grupos frontalmente enemistados. La política sociolaboral, petrolera y educativa de Frondizi tuvo picos de alta conflictividad, con grandes manifestaciones y huelgas del movimiento obrero y del movimiento estudiantil, así como numerosos atentados contra el gobierno con fines políticos en los que resultaron asesinados diecisiete civiles y militares.<ref>[https://www.infobae.com/historia/2017/04/20/arturo-frondizi-el-presidente-que-no-pudo-con-tantos-enemigos/  Arturo Frondizi, el presidente que no pudo con tantos enemigos], ''Infobae'', 20 de abril de 2017</ref> Aprobó y ejecutó el [[Plan CONINTES]], que ponía a los manifestantes bajo jurisdicción de los tribunales militares y prohibía las huelgas, aunque este fue realmente una imposición militar alternativa a declarar el [[estado de sitio]] permanente y suprimir los derechos civiles.<ref>[http://www.pagina12.com.ar/diario/elpais/1-81852-2007-03-16.html El Plan Conintes], ''Página/12''</ref>
+
+Debido a estos condicionamientos, Frondizi perdió gran parte de su legitimidad política luego de fracasar en cumplir su trato con el exiliado [[Juan Domingo Perón]] de legalizar el peronismo en las [[Elecciones legislativas de Argentina de 1960|elecciones legislativas de 1960]], en la que la mayoría de los peronistas descontentos se expresaron mediante el [[voto en blanco]]. Para la [[Elecciones legislativas de Argentina de 1962|siguiente renovación legislativa en 1962]], que además traería consigo las elecciones para gobernador de varias provincias, Frondizi aceptó anular parcialmente la proscripción y permitir que varias fuerzas calificadas como [[Neoperonismo|neoperonistas]] presentaran candidaturas. Los comicios se realizaron el 18 de marzo con una estrecha victoria para las diferentes listas neoperonistas, aunque el principal resultado se plasmó a nivel provincial con la [[Elecciones provinciales de Buenos Aires de 1962|elección]] del peronista [[Andrés Framini]] como [[Anexo:Gobernadores de la provincia de Buenos Aires|gobernador de la provincia de Buenos Aires]], la más poblada y depositaria de más de un tercio del electorado argentino.<ref name=Todo1962/>
+
+Pese a que la UCRI no sufrió la debacle absoluta que se le anticipaba y de hecho el partido logró consolidar su papel como principal partido contrario al peronismo y facción más grande del [[Radicalismo (Argentina)|radicalismo]], el gobierno de Frondizi terminó de desangrarse ante la pérdida de control del [[Congreso de la Nación Argentina|Congreso]] y de casi todas las provincias.<ref name=Todo1962>{{cite web|url=http://www.todo-argentina.net/historia/civmil/guido/1962.html|title=Todo Argentina: 1962}}</ref> La insistencia de Frondizi en aceptar el resultado electoral, si bien [[Intervención federal|intervino provisionalmente]] todas las provincias donde ganó el peronismo, provocó que las Fuerzas Armadas realizaran un [[Golpe de Estado en Argentina de 1962|golpe de Estado el 29 de marzo]], once días después de los comicios, arrestando a Frondizi y separándolo del cargo.<ref name=Todo1962/>
+
+=== Presidencia de Guido ===
+Habiendo renunciado el [[Vicepresidente de la Nación Argentina|vicepresidente]] [[Alejandro Gómez (vicepresidente)|Alejandro Gómez]] en 1958, el sucesor constitucional de Frondizi era [[José María Guido]], [[Presidente Provisional del Senado de la Nación Argentina|presidente provisional]] del [[Senado de la Nación Argentina]]. Mientras se ejecutaba el golpe, por la noche, [[Julio César Oyhanarte]], ministro de la [[Corte Suprema de Justicia de la Nación (Argentina)|Corte Suprema de Justicia de la Nación]] tomó la detención de Frondizi como un caso de [[Acefalía presidencial en Argentina|acefalía presidencial]] y se apresuró a prestar juramento a Guido, evitando el quiebre institucional total y la asunción de un militar como [[Gobierno de facto|presidente ''de facto'']].<ref name="moh">{{cita web|url = http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2408658|autor = Revista "El Derecho" del 12 de marzo de 2014 |título = Corte Suprema y Acefalía: el derrocamiento de Frondizi y la asunción de Guido|idioma = español}}</ref> Los militares golpistas terminaron aceptando la situación y convocaron a Guido en la [[Casa Rosada]] para comunicarle que sería reconocido como presidente, en tanto y en cuanto se comprometiera por escrito a ejecutar las medidas políticas indicadas por las Fuerzas Armadas. Entre estas medidas se encontraban la anulación del resultado electoral del 18 de marzo, la intervención de todas las provincias y la clausura del Congreso Nacional. Al no tener el [[Presidente de la Nación Argentina|presidente de la Nación]] facultades constitucionales para tales movimientos, el estado legal de la presidencia de Guido es controvertido hasta hoy, siendo discutible si fue un presidente constitucional o ''de facto''.<ref name="moh"/>
+
+Durante el mandato de Guido, se produjo un enfrentamiento interno en las Fuerzas Armadas, denominado [[azules y colorados]].{{harvnp|Potash|1996|pp=91-101}} Los azules estaban de acuerdo con permitir un acceso limitado a algunos dirigentes peronistas, con el fin de lograr la normalización institucional y al mismo tiempo combatir a los grupos de [[extrema izquierda]]. Los colorados, por su parte, equiparaban al movimiento peronista con el [[comunismo]] y abogaban por erradicarlo completamente mediante la instauración de una [[dictadura militar]] permanente. Cada bando luchaba para lograr el control sobre el conjunto de las Fuerzas Armadas y, de ese modo, estar en condiciones de ejercer la tutela sobre el gobierno y establecer el rumbo que debía seguir la política nacional.{{harvnp|Potash|1996|pp=91-101}} Enfrentamientos armados entre el 21 de septiembre de 1962 y 5 de abril de 1963 llevaron a la muerte de varios civiles y militares.<ref name="Clarín">{{cita web|url=http://edant.clarin.com/diario/2003/04/02/p-02301.htm|fecha=2 de abril de 2003|título=El otro 2 de abril: la batalla en el Ejército entre Azules y Colorados |periódico=Clarín |fechaacceso=17 de febrero de 2016}}</ref>
+
+La victoria de los azules, liderados por [[Juan Carlos Onganía]], permitió la supervivencia de la presidencia de Guido y la convocatoria a nuevas elecciones con el [[peronismo]] aún proscripto y Frondizi detenido e inhabilitado políticamente para presentarse. Sin embargo, el panorama militar más estable fue eclipsado por preocupaciones económicas.<ref name=pot>{{cite book |author=Potash, Robert |title=The Army and Politics in Argentina |publisher=Stanford University Press |date=1996}}</ref> Después de un breve período de crecimiento robusto liderado por la producción industrial, el equipo económico del presidente Guido, dirigido por el economista liberal conservador [[Álvaro Alsogaray]], impuso una nueva devaluación y medidas de austeridad tales como estrictos controles de crédito e incluso el pago de salarios estatales con bonos casi sin valor. El [[PIB]] cayó un 4% entre 1962 y 1963, y el desempleo aumentó a casi un 9%.<ref name=t63>{{cite web|url=http://www.todo-argentina.net/historia/civmil/guido/1963.html|title=Todo Argentina: 1963|fechaacceso=12 de agosto de 2018|fechaarchivo=18 de febrero de 2009|urlarchivo=https://web.archive.org/web/20090218233415/http://todo-argentina.net/historia/civmil/guido/1963.html|deadurl=yes}}</ref>
+
+== Reglas electorales ==
+La elección presidencial se realizó mediante el sistema de [[elección indirecta]]. A tal fin los votantes debieron elegir ''electores'', quienes a su vez debían elegir al [[presidente de la Nación Argentina|presidente de la Nación]], reunidos en congresos electorales separados, reunidos en cada provincia y la Capital Federal. 
+
+Los colegios electorales se reunieron el 31 de julio, separadamente en la Capital Federal y en las capitales de provincias, oportunidad en la que los electores eligieron como presidente de la Nación a [[Arturo Illia]], que obtuvo 270 votos y como vicepresidente a [[Carlos Perette]], que obtuvo 269 votos.<ref name="LN">{{cita publicación|publicación=La Nación|fecha=1 de agosto de 1963|título=El voto de los electores}}</ref>
+
+Simultáneamente se realizaron también elecciones de legisladores nacionales y de autoridades provinciales. 
+
+La participación ciudadana fue del 85,6% de los votantes habilitados. Los votos en blanco fueron 1 884 435 es decir el 19.4 %, máximo de la historia electoral presidencial argentina, y fueron considerados válidos por la justicia.<ref>''La Nación'', "Tendrá validez el voto en blanco para los cómputos", 10 de julio de 1963.</ref> La gran cantidad de votos en blanco se debió a la proscripción del peronismo que llevó a muchos de sus simpatizantes a pronunciarse de ese modo.
+
+== Candidaturas ==
+=== Unión Cívica Radical del Pueblo ===
+{| class="wikitable" style="font-size:90%; text-align:center;" width=27%
+| colspan="2" style="font-size:200%; background:white;" width="200%" |[[Archivo:UCRP escudo.svg|75px|centro|link=Unión Cívica Radical del Pueblo]]
+|-
+! style="font-size:135%; background:{{Color político|Unión Cívica Radical del Pueblo}};" width="50%" | [[Arturo Umberto Illia|{{color|white|Arturo Umberto Illia}}]]
+! style="font-size:135%; background:{{Color político|Unión Cívica Radical del Pueblo}};" width="50%" | [[Carlos Humberto Perette|{{color|white|Carlos Humberto Perette}}]]
+|- style="color:#000; font-size:100%;"
+| bgcolor="#D3D3D3" |'''''para presidente'''''
+| bgcolor="#D3D3D3" |'''''para vicepresidente'''''
+|-
+|  {{Recortar imagen|Imagen = Arturo Umberto Illia 1965.jpg|bSize = 250|cWidth = 200|cHeight = 300|oTop = 0|oLeft = 25|Location = center}}
+|  {{Recortar imagen|Imagen = Carlos Perette.png|bSize = 225|cWidth = 200|cHeight = 300|oTop = 0|oLeft = 10|Location = center}}
+|-
+|[[Cámara de Diputados de la Nación Argentina|Diputado nacional]]<br/>por [[Provincia de Córdoba (Argentina)|Córdoba]]<br/><small>(1948-1952)</small>
+|[[Cámara de Diputados de la Nación Argentina|Diputado nacional]]<br/>por [[Provincia de Entre Ríos|Entre Ríos]]<br/><small>(1952-1955 y 1958-1962)</small>
+|}
+
+=== Unión Cívica Radical Intransigente ===
+{| class="wikitable" style="font-size:90%; text-align:center;" width=27%
+| colspan="2" style="font-size:200%; background:white;" width="200%" |[[Archivo:Escudo UCRI 1963 plano.svg|75px|centro|link=Unión Cívica Radical Intransigente]]
+|-
+! style="font-size:135%; background:{{Color político|Unión Cívica Radical Intransigente}};" width="50%" | [[Oscar Alende|{{color|white|Oscar Alende}}]]
+! style="font-size:135%; background:{{Color político|Unión Cívica Radical Intransigente}};" width="50%" | [[Celestino Gelsi|{{color|white|Celestino Gelsi}}]]
+|- style="color:#000; font-size:100%;"
+| bgcolor="#D3D3D3" |'''''para presidente'''''
+| bgcolor="#D3D3D3" |'''''para vicepresidente'''''
+|-
+| {{Recortar imagen|Imagen = Oscar Alende 1965 (cropped).JPG|bSize = 300|cWidth = 200|cHeight = 300|oTop = 0|oLeft = 60|Location = center}}
+| {{Recortar imagen|Imagen = Celestino gelsi2.jpg |bSize = 250|cWidth = 200|cHeight = 300|oTop = 15|oLeft = 25|Location = center}}
+|-
+|[[Anexo:Gobernadores de la provincia de Buenos Aires|Gobernador de Buenos Aires]]<br/><small>(1958-1962)</small>
+|[[Anexo:Gobernadores de la provincia de Tucumán|Gobernador de Tucumán]]<br/><small>(1958-1962)</small>
+|}
+
+=== Unión del Pueblo Argentino ===
+{| class="wikitable" style="font-size:90%; text-align:center;" width=27%
+| colspan="1" style="font-size:200%; background:white;" width="50%" |[[Archivo:UDELPA_LOGO.png|155px|centro|link=Unión del Pueblo Argentino]]
+| colspan="1" style="font-size:200%; background:white;" width="50%" |[[Archivo:Escudo del PDP.svg|55px|centro|link=Partido Demócrata Progresista]]
+|-
+! style="font-size:135%; background:{{color político|Unión del Pueblo Argentino}};" width="50%" | [[Pedro Eugenio Aramburu|{{color|white|Pedro Eugenio Aramburu}}]]
+! style="font-size:135%; background:{{Color político|Partido Demócrata Progresista}};" width="50%" | {{color|white|Horacio Thedy}}
+|- style="color:#000; font-size:100%;"
+| bgcolor="#D3D3D3" |'''''{{color|black|para presidente}}'''''
+| bgcolor="#D3D3D3" |'''''{{color|black|para vicepresidente}}'''''
+|-
+| {{Recortar imagen|Imagen = Aramburu ca 1956.jpg|bSize = 250|cWidth = 200|cHeight = 300|oTop = 0|oLeft = 20|Location = center}}
+| {{Recortar imagen|Imagen = Horacio Thedy.jpg |bSize = 350|cWidth = 200|cHeight = 300|oTop = 25|oLeft = 65|Location = center}}
+|-
+| [[Presidente de la Nación Argentina]]<br/><small>(1955-1958)</small>
+| Convencional Constituyente<br/><small>(1957)</small><br/> Miembro de la [[Junta Consultiva Nacional]]<br/><small>(1955-1958)</small>
+|-style="vertical-align: top;"
+| colspan=2|<center>'''Candidatura apoyada por:'''</center>
+* [[Unión del Pueblo Argentino]]
+* [[Partido Demócrata Progresista]]
+|}
+
+=== Otras candidaturas ===
+{| class="wikitable" width=100% style="font-size:90%; text-align:center;"
+|-
+| style="background:white;" colspan=2| [[Archivo:Logo de la FdC.png|50px|link=Federación Nacional de Partidos de Centro]]
+| style="background:white;" colspan=2| [[Archivo:Logo Partido Democrata Cristiano.svg|50px|link=Partido Demócrata Cristiano (Argentina)]]
+| style="background:white;" colspan=2| [[Archivo:Partido Socialista Argentino (1958-1972).png|50px|link=Partido Socialista Argentino]]
+| style="background:white;" colspan=2| [[Archivo:Partido Socialista Democratico Argentina.png|50px|link=Partido Socialista Democrático (Argentina)]]
+|- style="color:#000; font-size:100%"
+! style="width:160px; font-size:120%; background:#005C9E;" | [[Emilio Olmos (hijo)|{{color|white|Emilio Olmos}}]]
+! style="width:160px; font-size:120%; background:#005C9E;" | [[Emilio Jofré|{{color|white|Emilio Jofré}}]]
+! style="width:160px; font-size:120%; background:{{Color político|Partido Demócrata Cristiano (Argentina)}};" | [[Horacio Sueldo|{{color|white|Horacio Sueldo}}]]
+! style="width:160px; font-size:120%; background:{{Color político|Partido Demócrata Cristiano (Argentina)}};" | [[Francisco Eduardo Cerro|{{color|white|Francisco Eduardo Cerro}}]]
+! style="width:160px; font-size:120%; background:{{Color político|Partido Socialista Argentino}};" | [[Alfredo Palacios|{{color|black|Alfredo Palacios}}]]
+! style="width:160px; font-size:120%; background:{{Color político|Partido Socialista Argentino}};" | {{color|black|Ramón I. Soria}}
+! style="width:160px; font-size:120%; background:{{Color político|Partido Socialista Democrático (Argentina)}};" | [[Alfredo Orgaz|{{color|black|Alfredo Orgaz}}]]
+! style="width:160px; font-size:120%; background:{{Color político|Partido Socialista Democrático (Argentina)}};" | {{color|black|Rodolfo Fitte}}
+|- style="color:#000; font-size:100%"
+| bgcolor=#D3D3D3|'''''{{color|black|para presidente}}'''''
+| bgcolor=#D3D3D3|'''''{{color|black|para vicepresidente}}'''''
+| bgcolor=#D3D3D3|'''''{{color|black|para presidente}}'''''
+| bgcolor=#D3D3D3|'''''{{color|black|para vicepresidente}}'''''
+| bgcolor=#D3D3D3|'''''{{color|black|para presidente}}'''''
+| bgcolor=#D3D3D3|'''''{{color|black|para vicepresidente}}'''''
+| bgcolor=#D3D3D3|'''''{{color|black|para presidente}}'''''
+| bgcolor=#D3D3D3|'''''{{color|black|para vicepresidenta}}'''''
+|-
+| {{Recortar imagen|Imagen =Emilio Olmos hijo.png|bSize = 190|cWidth = 155|cHeight = 155|oTop = 0|oLeft = 0|Location = center}}
+| {{Recortar imagen|Imagen =Emilio Jofré candidato 1966.png|bSize = 155|cWidth = 155|cHeight = 155|oTop = 15|oLeft = 0|Location = center}}
+| {{Recortar imagen|Imagen =Horacio Sueldo.jpg|bSize = 155|cWidth = 155|cHeight = 155|oTop = 0|oLeft = 0|Location = center}}
+| {{Recortar imagen|Imagen =Replace_this_image_male.svg|bSize = 155|cWidth = 155|cHeight = 155|oTop = 0|oLeft = 0|Location = center}}
+| {{Recortar imagen|Imagen =Alfredo Palacios.jpeg|bSize = 155|cWidth = 155|cHeight = 155|oTop = 0|oLeft = 0|Location = center}}
+| {{Recortar imagen|Imagen =Replace_this_image_male.svg|bSize = 155|cWidth = 155|cHeight = 155|oTop = 0|oLeft = 0|Location = center}}
+| {{Recortar imagen|Imagen =Alfredo Orgaz.png|bSize = 155|cWidth = 155|cHeight = 155|oTop = 0|oLeft = 0|Location = center}}
+| {{Recortar imagen|Imagen =Replace_this_image_male.svg|bSize = 155|cWidth = 155|cHeight = 155|oTop = 0|oLeft = 0|Location = center}}
+|-
+| [[Anexo:Intendentes de la ciudad de Córdoba (Argentina)|Intendente ''de facto'' de la Ciudad de Córdoba]]<br/><small> (1955-1957)</small>
+| [[Cámara de Diputados de la Nación Argentina|Diputado nacional]]<br /> por [[Provincia de Mendoza|Mendoza]]<br /><small>(1960-1962)</small>
+| Abogado y periodista
+| 
+| [[Senado de la Nación Argentina|Senador Nacional]]<br /> por la [[Buenos Aires|Capital Federal]]<br /><small>(1961-1962)</small> 
+| 
+| [[Anexo:Embajadores de Argentina en Chile|Embajador de Argentina en Chile]]<br/>(1964-1965)<br/> [[Corte Suprema de Justicia de la Nación Argentina|Ministro de la Corte Suprema de Justicia]]<br />(1955-1960)
+|
+|-
+| colspan=2|<center>'''Partidos que integraban la alianza:'''</center>
+* [[Partido Demócrata de Buenos Aires|Unión Conservadora]]
+* [[Partido Demócrata de Mendoza]]
+* [[Partido Demócrata de Córdoba]]
+| colspan=2 style="background:#ececec; vertical-align:middle"| ''Partido sin alianza''
+| colspan=2 style="background:#ececec; vertical-align:middle"| ''Partido sin alianza''
+| colspan=2 style="background:#ececec; vertical-align:middle"| ''Partido sin alianza''
+|}
+
+== Campaña ==
+La candidatura de Illia se debió en gran medida a que en las elecciones de 1962 fue el único candidato de la [[Unión Cívica Radical del Pueblo|UCR del Pueblo]] en [[Elecciones provinciales de Córdoba de 1962|ganar una gobernación]] al imponerse por estrecho margen en la [[provincia de Córdoba (Argentina)|provincia de Córdoba]], donde se había logrado la mayor concentración de votos no peronistas incluso durante su período de apogeo en 1950. El historiador [[Luis Alberto Romero (historiador)|Luis Alberto Romero]] atribuyó la elección de Illia como candidato de la UCRP a la escasa fe de triunfo de la dirigencia partidaria.<ref name=Romero>''Breve historia contemporánea de la Argentina'', Luis Alberto Romero.</ref> Su abanderado en 1958, [[Ricardo Balbín]], declinó su postulación con la fe de que una figura menos antiperonista captaría más votos de este sector y de la desgastada [[Unión Cívica Radical Intransigente|UCR Intransigente]].<ref name=pot/>
+
+Desde su encarcelamiento, Frondizi discutió con Perón la posibilidad de fundar un "Frente Nacional del Pueblo" que agrupara a la totalidad del peronismo, radicales intransigentes y conservadores favorables al peronismo, a pesar de la oposición de quien sería el candidato de la UCRI, [[Oscar Alende]]. El candidato de dicho frente sería el conservador [[Vicente Solano Lima]]. Una de las revueltas entre azules y colorados, realizada el 2 de abril de 1963, llevó a que los militares rechazaran la idea de tolerar un frente Perón-Frondizi. Perón rechazó apoyar a cualquier candidato en una elección no libre y pidió a sus partidarios votar en blanco. El peronista [[Alejandro Leloir]], sin embargo, se presentó independientemente con el Partido Tres Banderas, siendo la única candidatura peronista legalmente permitida en la elección de 1963.<ref>{{cite book|title=Peronism Without Peron: Unions, Parties, and Democracy in Argentina|url=https://archive.org/details/peronismwithoutp0000mcgu|author=McGuire, James|publisher=Stanford University Press|date=1997}} {{en}}</ref>
+
+Los incidentes de abril condujeron a la candidatura de [[Pedro Eugenio Aramburu]], expresidente ''de facto'' que proscribió al peronismo en 1955, bajo la bandera de los partidos [[Unión del Pueblo Argentino]] (UDELPA), y el [[Partido Demócrata Progresista]] (PDP). Ambos presentaron compañeros de fórmula diferentes para Aramburu, [[Arturo J. Etchevehere]] y [[Horacio Thedy]] respectivamente. Uno de los lemas de campaña de la UDELPA, evidenciando su fuerte tono antiperonista, fue "''Vote UDELPA y no vuelve''".<ref name=pot/> Otros conservadores antiperonistas apoyaron al ex intendente de Córdoba [[Emilio Olmos]], de la [[Federación Nacional de Partidos de Centro]] (FNPC), provocando la división de las tres principales fuerzas políticas del país: el peronismo, el radicalismo, y el conservadurismo, de cara a las elecciones.<ref>{{cite web|url=http://www.lanacion.com.ar/152915-murio-el-ingeniero-emilio-olmos|title=Murió el ingeniero Emilio Olmos|work=La Nación}}</ref>
+
+== Resultados ==
+{| class="wikitable" style="text-align:right;"
+|-
+!colspan=2|Fórmula
+!rowspan=2 colspan=3|Partido
+!colspan=2|Voto popular
+!colspan=2|Voto electoral
+|-
+!Presidente
+!Vicepresidente
+!Votos
+!%
+!Votos
+!%
+|-style="font-weight:bold" bgcolor=#cfc
+| align=left|[[Arturo Umberto Illia]]
+| align=left|[[Carlos Humberto Perette]]
+| bgcolor={{Color político|Unión Cívica Radical del Pueblo}}|
+| align=left colspan=2|[[Unión Cívica Radical del Pueblo]]
+| 2.441.064
+| 26,78
+| 168
+| 35,29
+|-
+| align=left|[[Oscar Alende]]
+| align=left|[[Celestino Gelsi]]
+| bgcolor={{Color político|Unión Cívica Radical Intransigente}}|
+| align=left colspan=2|[[Unión Cívica Radical Intransigente]]
+| 1.593.002
+| 18,18
+| 110
+| 23,11
+|-
+| align=left rowspan=5| [[Pedro Eugenio Aramburu]]
+| align=left|Arturo J. Etchevehere
+| style="background-color: lavender;border-bottom-style:hidden;" rowspan=4|
+| bgcolor={{Color político|Unión del Pueblo Argentino}}|
+| align=left|[[Unión del Pueblo Argentino]]
+| 726.861
+| 8,24
+| 42
+| 8,82
+|-
+| align=left|Horacio Thedy
+| bgcolor={{Color político|Partido Demócrata Progresista}}|
+| align=left|[[Partido Demócrata Progresista]]
+| 619.481
+| 8,10
+| 30
+| 6,30
+|-
+| rowspan=3|
+| bgcolor={{Color político|Unión del Pueblo Argentino}}|
+| align=left|Alianza Misionera ([[Unión del Pueblo Argentino|UDELPA]]-[[Partido Demócrata Progresista|PDP]])
+| 14.453
+| 0,19
+| 3
+| 0,63
+|-
+| bgcolor={{Color político|Unión del Pueblo Argentino}}|
+| align=left|[[Unión del Pueblo Argentino]]-[[Partido Demócrata Progresista]]
+| 1.801
+| 0,02
+|- bgcolor=lavender
+| colspan=3 align=left|Total alianza
+| 1.362.596
+| 16,55
+| 75
+| 15,76
+|-
+| align=left rowspan=10| [[Emilio Olmos (hijo)|Emilio Olmos (h)]]
+| align=left rowspan=10| [[Emilio Jofré]]
+| style="background-color: lightblue;border-bottom-style:hidden;" rowspan=9|
+| bgcolor={{Color político|Partido Demócrata (Argentina)}}|
+| align=left|[[Partido Demócrata Nacional|Partido Demócrata]]
+| 185.261
+| 1,74
+| 9
+| 1,89
+|-
+| bgcolor={{Color político|Partido Demócrata (Argentina)}}|
+| align=left|[[Partido Demócrata de Buenos Aires|Unión Conservadora]]
+| 133.199
+| 1,56
+| 5
+| 1,05
+|-
+| bgcolor=#4169e1|
+| align=left|Partido Conservador del Chaco
+| 68.687
+| 0,90
+| 6
+| 1,26
+|-
+| bgcolor={{Color político|Partido Demócrata (Argentina)}}|
+| align=left|[[Partido Demócrata Liberal (Argentina)|Partido Demócrata Liberal]]
+| 38.772
+| 0,51
+| 6
+| 1,26
+|-
+| bgcolor={{Color político|Partido Demócrata (Argentina)}}|
+| align=left|Partido Demócrata Conservador
+| 36.629
+| 0,48
+|-
+| bgcolor={{Color político|Partido Demócrata (Argentina)}}|
+| align=left|[[Partido Demócrata Nacional|Partido Demócrata Unido]]
+| 27.459
+| 0,36
+| 2
+| 0,42
+|-
+| bgcolor=#4169e1|
+| align=left|Unión Provincial
+| 15.474
+| 0,20
+| 2
+| 0,42
+|-
+| bgcolor=#4169e1|
+| align=left|Partido Demócrata Popular
+| 5.088
+| 0,07
+| 1
+| 0,21
+|-
+| bgcolor=#35AAE0|
+| align=left|Partido Liberal de Misiones
+| 1.210
+| 0,02
+|- bgcolor=lightblue
+| colspan=3 align=left|Total [[Federación Nacional de Partidos de Centro]]
+| 511.779
+| 5,84
+| 31
+| 6,51
+|-
+| align=left|[[Horacio Sueldo]]
+| align=left|[[Francisco Eduardo Cerro]]
+| bgcolor={{Color político|Partido Demócrata Cristiano (Argentina)}}|
+| align=left colspan=2|[[Partido Demócrata Cristiano (Argentina)|Partido Demócrata Cristiano]]
+| 434.823
+| 4,96
+| 23
+| 4,83
+|-
+| align=left|[[Alfredo Palacios]]
+| align=left|Ramón I. Soria
+| bgcolor={{Color político|Partido Socialista Argentino}}|
+| align=left colspan=2|[[Partido Socialista Argentino]]
+| 278.856
+| 3,18
+| 12
+| 2,52
+|-
+| align=left|[[Alfredo Orgaz]]
+| align=left|Rodolfo Fitte
+| bgcolor={{Color político|Partido Socialista Democrático (Argentina)}}|
+| align=left colspan=2|[[Partido Socialista Democrático (Argentina)|Partido Socialista Democrático]]
+| 258.787
+| 2,95
+| 10
+| 2,10
+|-
+| align=left rowspan=5|[[Justo León Bengoa]]
+| align=left rowspan=5|[[Alejandro H. Leloir]]
+| style="background-color: silver;border-bottom-style:hidden;" rowspan=4|
+| bgcolor=#75AADB|
+| align=left|[[Neoperonismo|Partido de la Justicia Social]]
+| 83.302
+| 1,09
+| 4
+| 0,84
+|-
+| bgcolor=lightgrey|
+| align=left|Movimiento del Frente Nacional
+| 40.164
+| 0,52
+| 1
+| 0,21
+|-
+| bgcolor={{Color político|Partido Laborista (Argentina)}}|
+| align=left|[[Partido Laborista (Argentina)|Partido Laborista]]
+| 20.560
+| 0,27
+|-
+| bgcolor=lightgrey|
+| align=left|Partido Independiente Nacional
+| 6.745
+| 0,09
+|- bgcolor=silver
+| colspan=3 align=left|Total alianza
+| 150.771
+| 1,97
+| 5
+| 1,05
+|-
+| align=left|
+| align=left|
+| bgcolor=#75AADB|
+| align=left colspan=2|[[Neoperonismo|Partido Tres Banderas]]
+| 113.941
+| 1,49
+| 7
+| 1,47
+|-
+| align=left|
+| align=left|
+| bgcolor=grey|
+| align=left colspan=2|[[Neoperonismo|Partido Blanco]]
+| 70.860
+| 0,93
+| 3
+| 0,63
+|-
+| align=left|
+| align=left|
+| bgcolor={{Color político|Partido Liberal de Corrientes}}|
+| align=left colspan=2|[[Partido Liberal de Corrientes]]
+| 59.696
+| 0,78
+| 5
+| 1,05
+|-
+| align=left|
+| align=left|
+| bgcolor={{Color político|Partido Bloquista de San Juan}}|
+| align=left colspan=2|[[Unión Cívica Radical Bloquista]]
+| 46.088
+| 0,60
+| 4
+| 0,84
+|-
+| align=left|
+| align=left|
+| bgcolor=#75AADB|
+| align=left colspan=2|[[Neoperonismo|Movimiento Federal Democrático]]
+| 42.116
+| 0,55
+| 5
+| 1,05
+|-
+| align=left|
+| align=left|
+| bgcolor={{Color político|Partido Autonomista de Corrientes}}|
+| align=left colspan=2|[[Partido Autonomista de Corrientes]]
+| 38.907
+| 0,51
+| 3
+| 0,63
+|-
+| align=left|
+| align=left|
+| bgcolor=lightgrey|
+| align=left colspan=2|Partido Social Agrario
+| 37.630
+| 0,49
+|-
+| align=left|
+| align=left|
+| bgcolor={{Color político|Cruzada Renovadora}}|
+| align=left colspan=2|[[Unión Cívica Radical Cruzada Renovadora]]
+| 31.718
+| 0,41
+| 3
+| 0,63
+|-
+| align=left|
+| align=left|
+| bgcolor=lightgrey|
+| align=left colspan=2|Unión Nacional
+| 30.730
+| 0,40
+| 1
+| 0,21
+|-
+| align=left|
+| align=left|
+| bgcolor={{Color político|Defensa Provincial-Bandera Blanca}}|
+| align=left colspan=2|[[Defensa Provincial-Bandera Blanca]]
+| 23.437
+| 0,31
+| 2
+| 0,42
+|-
+| align=left rowspan=3|[[Juan Francisco Castro (militar)|Juan Francisco Castro]]
+| align=left rowspan=3|Antonio Chaniz
+| style="background-color: silver;border-bottom-style:hidden;" rowspan=2|
+| bgcolor=lightgrey|
+| align=left|Cruzada Acción Nacional
+| 21.228
+| 0,28
+|-
+| bgcolor=lightgrey|
+| align=left|Acción Nacional-Unión Cívica de los Trabajadores
+| 1.765
+| 0,02
+|- bgcolor=silver
+| colspan=3 align=left|Total alianza
+| 22.993
+| 0,30
+|-
+| align=left|
+| align=left|
+| bgcolor={{Color político|Movimiento Popular Neuquino}}|
+| align=left colspan=2|[[Movimiento Popular Neuquino]]
+| 20.648
+| 0,27
+| 6
+| 1,26
+|-
+| align=left|
+| align=left|
+| bgcolor=lightgrey|
+| align=left colspan=2|Partido Provincial
+| 16.086
+| 0,21
+| 2
+| 0,42
+|-
+| align=left|
+| align=left|
+| bgcolor=lightgrey|
+| align=left colspan=2|Partido Colorado
+| 10.929
+| 0,14
+|-
+| align=left|
+| align=left|
+| bgcolor=lightgrey|
+| align=left colspan=2|Partido Demócrata Conservador Popular
+| 10.493
+| 0,14
+|-
+| align=left|
+| align=left|
+| bgcolor={{Color político|Partido Socialista (Argentina)}}|
+| align=left colspan=2|[[Partido Socialista (Argentina)|Partido Socialista del Chaco]]
+| 9.483
+| 0,12
+|-
+| align=left|
+| align=left|
+| bgcolor=lightgrey|
+| align=left colspan=2|Partido del Pueblo
+| 9.371
+| 0,12
+|-
+| align=left|
+| align=left|
+| bgcolor=lightgrey|
+| align=left colspan=2|Concentración Demócrata
+| 6.028
+| 0,08
+|-
+| align=left|
+| align=left|
+| bgcolor=pink|
+| align=left colspan=2|Unión Cívica Radical Intransigente Popular
+| 5.301
+| 0,07
+| 1
+| 0,21
+|-
+| align=left|
+| align=left|
+| bgcolor=pink|
+| align=left colspan=2|Unión Cívica Popular Misionera
+| 4.212
+| 0,06
+|-
+| align=left|
+| align=left|
+| bgcolor=lightgrey|
+| align=left colspan=2|Partido Azul y Blanco
+| 3.993
+| 0,05
+|-
+| align=left|
+| align=left|
+| bgcolor=pink|
+| align=left colspan=2|Unión Cívica Radical de La Rioja
+| 2.705
+| 0,04
+|-
+| align=left|
+| align=left|
+| bgcolor={{Color político|Partido Autonomista de Corrientes}}|
+| align=left colspan=2|[[Partido Autonomista de Corrientes|Partido Demócrata Autonomista]]
+| 1.337
+| 0,02
+|-
+| align=left|
+| align=left|
+| bgcolor=pink|
+| align=left colspan=2|Unión Cívica Formoseña
+| 945
+| 0,01
+|-
+| align=left|
+| align=left|
+| bgcolor=red|
+| align=left colspan=2|[[Partido Socialista Argentino de Vanguardia]]
+| 475
+| 0,01
+|-
+| align=left|
+| align=left|
+| bgcolor=lightgrey|
+| align=left colspan=2|Partido Conservador Obrero Provincial
+| 185
+| 0,00
+|-
+! style="text-align:left;" colspan=5| Votos positivos
+! style="text-align:right;"| 7.651.985
+! style="text-align:right;"| 78,80
+|-
+| colspan=5 align=left|Votos en blanco
+| 1.884.435
+| 19,41
+|-
+| colspan=5 align=left|Votos anulados
+| 173.696
+| 1,79
+|-
+! style="text-align:left;" colspan=5|Participación
+! style="text-align:right;"| 9.710.116
+! style="text-align:right;"| 85,50
+|-
+| colspan=5 align=left|Abstenciones
+| 1.646.124
+| 14,50
+|-
+! style="text-align:left;" colspan=5|Electores registrados
+! style="text-align:right;"| 11.356.240
+! style="text-align:right;"| 100
+|-
+| colspan=9 align=left|Fuentes:<ref>{{Cita libro |apellidos=Cantón |nombre=Darío |título=Materiales para el estudio de la sociología política en la Argentina |url=http://www.dariocanton.com/publicaciones/sociologia/1968_materiales-para-el-estudio-de-la-sociologia/1968_materiales-para-el-estudio-de-la-sociologia_1.pdf |editorial=Centro de Investigaciones Sociales - [[Instituto Torcuato Di Tella]] |ubicación=Buenos Aires |fecha-publicación=1968 |volumen=Tomo I |página=227-232 |formato=PDF}}</ref><ref>{{Cita publicación |url=https://www.mininterior.gov.ar/asuntospoliticos/pdf/HistoriaElectoralArgentina.pdf |título=Historia Electoral Argentina (1912-2007) |fecha=Diciembre de 2008 |editorial=[[Ministerio del Interior (Argentina)|Ministerio del Interior]] - Subsecretaría de Asuntos Políticos y Electorales |urlarchivo=https://web.archive.org/web/20140908165849/https://www.mininterior.gov.ar/asuntospoliticos/pdf/HistoriaElectoralArgentina.pdf |fechaarchivo=8 de septiembre de 2014}}</ref>
+|}
+
+=== Resultados por provincia ===
+{| class="wikitable sortable" style="text-align: center; font-size: 90%;"
+! colspan=2| 
+! colspan=3| [[Arturo Umberto Illia|Illia]]/[[Carlos Humberto Perette|Perette]]<br />([[Unión Cívica Radical del Pueblo|UCRP]])
+! colspan=3| [[Oscar Alende|Alende]]/[[Celestino Gelsi|Gelsi]]<br />([[Unión Cívica Radical Intransigente|UCRI]])
+! colspan=3| [[Pedro Eugenio Aramburu|Aramburu]]<br />([[Unión del Pueblo Argentino|UDELPA]] + [[Partido Demócrata Progresista|PDP]])
+! colspan=3| [[Emilio Olmos (hijo)|Olmos]]/[[Emilio Jofré|Jofré]]<br />([[Federación Nacional de Partidos de Centro|FNPC]])
+! colspan=3| [[Horacio Sueldo|Sueldo]]/[[Francisco Eduardo Cerro|Cerro]]<br />([[Partido Demócrata Cristiano (Argentina)|PDC]])
+! colspan=3| [[Alfredo Palacios|Palacios]]/Soria<br />([[Partido Socialista Argentino|PSA]])
+! colspan=3| [[Alfredo Orgaz|Orgaz]]/Fitte<br />([[Partido Socialista Democrático (Argentina)|PSD]])
+! colspan=3| Otros<br/>partidos
+! colspan=2| Blancos/Nulos
+! colspan=2| Participación
+|-
+!Provincia
+!El.
+!Votos
+!%
+!El.
+!Votos
+!%
+!El.
+!Votos
+!%
+!El.
+!Votos
+!%
+!El.
+!Votos
+!%
+!El.
+!Votos
+!%
+!El.
+!Votos
+!%
+!El.
+!Votos
+!%
+!El.
+!Votos
+!%
+!Votos
+!%
+|-bgcolor=#FFB6B6
+| [[Provincia de Buenos Aires|Buenos Aires]]
+| 104
+| '''844.956'''
+| '''32,93'''
+| '''37'''
+| 644.237
+| 25,11
+| 28
+| 415.724
+| 16,20
+| 17
+| 133.199
+| 5,19
+| 5
+| 130.389
+| 5,08
+| 5
+| 148.094
+| 5,77
+| 6
+| 153.198
+| 5,97
+| 6
+| 96.193
+| 3,75
+| —
+| 729.928
+| 22,15
+| {{orden|3295918|3.295.918}}
+| 87,83
+|-bgcolor=#FFB6B6
+| [[Capital Federal]] y [[Territorio nacional de la Tierra del Fuego, Antártida e Islas del Atlántico Sur|Tierra del Fuego]]
+| 74
+| '''421.505'''
+| '''29,85'''
+| '''24'''
+| 292.297
+| 20,70
+| 16
+| 386.817
+| 27,40
+| 21
+| 32.897
+| 2,33
+| —
+| 75.401
+| 5,34
+| 4
+| 87.091
+| 6,17
+| 5
+| 73.120
+| 5,18
+| 4
+| 42.753
+| 3,03
+| —
+| 246.279
+| 14,85
+| {{orden|1658160|1.658.160}}
+| 89,98
+|-bgcolor=#FFB6B6
+| [[Provincia de Catamarca|Catamarca]]
+| 8
+| '''24.455'''
+| '''40,81'''
+| '''4'''
+| 10.694
+| 17,85
+| 2
+| 4.984
+| 8,32
+| —
+| 3.732
+| 6,23
+| —
+| 6.292
+| 10,50
+| 1
+| {{orden|0.514|514}}
+| 0,86
+| —
+| {{orden|0.471|471}}
+| 0,79
+| —
+| 8.782
+| 14,66
+| 1{{refn|group=lower-alpha|Correspondientes a Unión Cívica Radical Intransigente Popular (5.301 votos, 8,85%).}}
+| 13.558
+| 18,45
+| 73.482
+| 79,89
+|-bgcolor=#B0CEFF
+| [[Provincia del Chaco|Chaco]]
+| 14
+| 42.362
+| 24,83
+| 4
+| 27.806
+| 16,30
+| 2
+| 21.899
+| 12,84
+| 2
+| '''68.687'''
+| '''40,26'''
+| '''6'''
+| 4.313
+| 2,53
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| 5.540
+| 3,25
+| —
+| 32.367
+| 15,95
+| 202.974
+| 74,36
+|-bgcolor=#FFB6B6
+| [[Provincia del Chubut|Chubut]]
+| 8
+| '''14.932'''
+| '''46,76'''
+| '''5'''
+| 6.163
+| 19,30
+| 2
+| 7.991
+| 25,03
+| 1
+| —
+| —
+| —
+| 2.845
+| 8,91
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| 14.259
+| 30,87
+| 46.190
+| 69,05
+|-bgcolor=#FFB6B6
+| [[Provincia de Córdoba (Argentina)|Córdoba]]
+| 40
+| '''385.946'''
+| '''57,69'''
+| '''26'''
+| 61.583
+| 9,21
+| 4
+| 87.000
+| 13,00
+| 4
+| 70.406
+| 10,52
+| 4
+| 34.347
+| 5,13
+| 2
+| 9.458
+| 1,41
+| —
+| 8.496
+| 1,27
+| —
+| 11.754
+| 1,76
+| —
+| 275.713
+| 29,19
+| 944.703
+| 87,19
+|-bgcolor=#ffd9d9
+| [[Provincia de Corrientes|Corrientes]]
+| 16
+| 15.164
+| 6,69
+| 1
+| '''80.827'''
+| '''35,65'''
+| '''7'''
+| 10.927
+| 4,82
+| —
+| —
+| —
+| —
+| 8.952
+| 3,95
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| 110.870
+| 48,90
+| 8{{refn|group=lower-alpha|Correspondientes a [[Partido Liberal de Corrientes]] (59.696 votos, 26,33%, 5 electores), y a [[Partido Autonomista de Corrientes]] (38.907 votos, 17,16%, 3 electores).}}
+| 13.496
+| 5,62
+| 240.236
+| 76,97
+|-bgcolor=#FFB6B6
+| [[Provincia de Entre Ríos|Entre Ríos]]
+| 22
+| '''112.281'''
+| '''33,45'''
+| '''8'''
+| 93.348
+| 27,81
+| 7
+| 35.033
+| 10,44
+| 1
+| 27.459
+| 8,18
+| 2
+| 18.693
+| 5,57
+| 1
+| —
+| —
+| —
+| 4.496
+| 1,34
+| —
+| 44.396
+| 13,22
+| 3{{refn|group=lower-alpha|Correspondientes a [[Neoperonismo|Partido Tres Banderas]] (41.657 votos, 12,41%).}}
+| 55.368
+| 14,16
+| 391.074
+| 82,14
+|-bgcolor=#FFB6B6
+| [[Provincia de Formosa|Formosa]]
+| 8
+| '''19.520'''
+| '''47,39'''
+| '''5'''
+| 13.559
+| 32,92
+| 3
+| 1.801
+| 4,37
+| —
+| 821
+| 1,99
+| —
+| 3.515
+| 8,53
+| —
+| 1.028
+| 2,50
+| —
+| —
+| —
+| —
+| {{orden|0.945|945}}
+| 2,29
+| —
+| 7.738
+| 15,82
+| 48.927
+| 75,83
+|-bgcolor=#ffd9d9
+| [[Provincia de Jujuy|Jujuy]]
+| 8
+| 5.529
+| 16,33
+| 1
+| '''14.410'''
+| '''42,56'''
+| '''4'''
+| 4.868
+| 14,38
+| 1
+| 5.088
+| 15,03
+| 1
+| 3.779
+| 11,16
+| 1
+| —
+| —
+| —
+| —
+| —
+| —
+| {{orden|0.185|185}}
+| 0,55
+| —
+| 49.906
+| 59,58
+| 83.765
+| 81,21
+|-bgcolor=#ffd9d9
+| [[Provincia de La Pampa|La Pampa]]
+| 8
+| 18.335
+| 32,86
+| 3
+| '''24.256'''
+| '''43,48'''
+| '''4'''
+| 7.898
+| 14,16
+| 1
+| —
+| —
+| —
+| 5.303
+| 9,50
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| 25.187
+| 31,10
+| 80.979
+| 87,11
+|-bgcolor=#FFB6B6
+| [[Provincia de La Rioja (Argentina)|La Rioja]]
+| 8
+| '''17.388'''
+| '''39,20'''
+| '''4'''
+| 6.558
+| 14,78
+| 1
+| 1.831
+| 4,13
+| —
+| 7.592
+| 17,11
+| 2
+| 1.301
+| 2,93
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| 9.690
+| 21,84
+| 1{{refn|group=lower-alpha|Correspondientes a Partido de la Justicia Social (6.232 votos, 14,05%).}}
+| 12.423
+| 21,88
+| 56.783
+| 80,20
+|-bgcolor=#B0CEFF
+| [[Provincia de Mendoza|Mendoza]]
+| 18
+| 78.804
+| 20,89
+| 4
+| 11.217
+| 2,97
+| —
+| 27.862
+| 7,39
+| 1
+| '''92.813'''
+| '''24,61'''
+| '''5'''
+| 6.580
+| 1,74
+| —
+| 20.405
+| 5,41
+| 1
+| —
+| —
+| —
+| 139.524
+| 36,99
+| 8{{refn|group=lower-alpha|Correspondientes a [[Neoperonismo|Partido Tres Banderas]] (72.277 votos, 19,16%, 4 electores) y a [[Neoperonismo|Partido Blanco]] (66.989 votos, 17,76%, 3 electores).}}
+| 26.847
+| 6,64
+| 404.052
+| 89,02
+|-bgcolor=#FFB6B6
+| [[Provincia de Misiones|Misiones]]
+| 10
+| '''19.250'''
+| '''26,94'''
+| '''3'''
+| 18.785
+| 26,29
+| 3
+| 14.453
+| 20,23
+| 3
+| 1.210
+| 1,69
+| —
+| 7.832
+| 10,96
+| 1
+| —
+| —
+| —
+| —
+| —
+| —
+| 9.920
+| 13,88
+| —
+| 24.529
+| 25,56
+| 95.979
+| 72,68
+|-bgcolor=#558ced
+| [[Provincia de Neuquén|Neuquén]]
+| 8
+| 3.609
+| 10,40
+| 1
+| 6.124
+| 17,66
+| 1
+| 2.367
+| 6,82
+| —
+| 822
+| 2,37
+| —
+| 1.116
+| 3,22
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| '''20.648'''
+| '''59,53'''
+| '''6'''{{refn|group=lower-alpha|Correspondientes a [[Movimiento Popular Neuquino]].}}
+| 5.822
+| 14,37
+| 40.508
+| 79,85
+|-bgcolor=#FFB6B6
+| [[Provincia de Río Negro|Río Negro]]
+| 8
+| '''14.646'''
+| '''32,90'''
+| '''3'''
+| 12.576
+| 28,25
+| 3
+| 7.111
+| 15,97
+| 1
+| 3.906
+| 8,77
+| —
+| 6.284
+| 14,11
+| 1
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| 23.680
+| 34,72
+| 68.203
+| 73,84
+|-bgcolor=#558ced
+| [[Provincia de Salta|Salta]]
+| 10
+| 23.054
+| 24,77
+| 2
+| 7.930
+| 8,52
+| 1
+| —
+| —
+| —
+| 15.474
+| 16,62
+| 2
+| 3.897
+| 4,19
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| '''42.729'''
+| '''45,90'''
+| '''5'''{{refn|group=lower-alpha|Correspondientes a [[Neoperonismo|Movimiento Federal Democrático]] (42.116 votos, 45,25%).}}
+| 63.123
+| 40,41
+| 156.207
+| 76,70
+|-bgcolor=YellowGreen
+| [[Provincia de San Juan|San Juan]]
+| 10
+| 30.835
+| 23,93
+| 3
+| 3.173
+| 2,46
+| —
+| 5.086
+| 3,95
+| —
+| —
+| —
+| —
+| 4.104
+| 3,18
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| '''85.659'''
+| '''66,48'''
+| '''6'''{{refn|group=lower-alpha|Correspondientes a [[Unión Cívica Radical Bloquista]] (46.088 votos, 35,77%, 4 electores) y a [[Unión Cívica Radical Cruzada Renovadora]] (31.718 votos, 24,61%, 3 electores).}}
+| 34.576
+| 21,16
+| 163.433
+| 87,70
+|-bgcolor=#B0CEFF
+| [[Provincia de San Luis|San Luis]]
+| 8
+| 8.121
+| 13,65
+| 1
+| 17.816
+| 29,95
+| 3
+| —
+| —
+| —
+| '''27.952'''
+| '''46,99'''
+| '''4'''
+| 1.810
+| 3,04
+| —
+| {{orden|0.749|749}}
+| 1,26
+| —
+| {{orden|0.671|671}}
+| 1,13
+| —
+| 2.362
+| 3,97
+| —
+| 26.633
+| 30,93
+| 86.114
+| 82,98
+|-bgcolor=#FFB6B6
+| [[Provincia de Santa Cruz|Santa Cruz]]
+| 8
+| '''3.220'''
+| '''35,20'''
+| '''3'''
+| 2.554
+| 27,92
+| 3
+| 1.901
+| 20,78
+| 2
+| —
+| —
+| —
+| {{orden|0.665|665}}
+| 7,27
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| {{orden|0.809|809}}
+| 8,84
+| —
+| 4.453
+| 32,74
+| 13.602
+| 69,09
+|-bgcolor=#FFF0C9
+| [[Provincia de Santa Fe|Santa Fe]]
+| 44
+| 234.801
+| 28,79
+| 14
+| 179.479
+| 22,01
+| 11
+| '''270.995'''
+| '''33,23'''
+| '''16'''
+| 13.808
+| 1,69
+| —
+| 64.527
+| 7,91
+| 3
+| 11.517
+| 1,41
+| —
+| 11.637
+| 1,43
+| —
+| 28.740
+| 3,52
+| —
+| 234.159
+| 22,31
+| {{orden|1049663|1.049.663}}
+| 89,09
+|-bgcolor=#FFB6B6
+| [[Provincia de Santiago del Estero|Santiago del Estero]]
+| 16
+| '''66.177'''
+| '''48,73'''
+| '''9'''
+| 9.252
+| 6,81
+| 1
+| 13.631
+| 10,04
+| 2
+| 2.685
+| 1,98
+| —
+| 10.458
+| 7,70
+| 1
+| —
+| —
+| —
+| —
+| —
+| —
+| 33.589
+| 24,74
+| 3{{refn|group=lower-alpha|Correspondientes a Partido Provincial (16.086 votos, 11,85%, 2 electores) y a Partido de la Justicia Social (8.557 votos, 6,30%, 1 elector).}}
+| 51.521
+| 27,51
+| 187.313
+| 64,77
+|-bgcolor=#ffd9d9
+| [[Provincia de Tucumán|Tucumán]]
+| 18
+| 36.174
+| 15,37
+| 3
+| '''48.358'''
+| '''20,55'''
+| '''4'''
+| 32.417
+| 13,78
+| 2
+| 3.228
+| 1,37
+| —
+| 32.420
+| 13,78
+| 3
+| —
+| —
+| —
+| 6.698
+| 2,85
+| —
+| 75.990
+| 32,30
+| 6{{refn|group=lower-alpha|Correspondientes a Partido de la Justicia Social (27.895 votos, 11,86%, 2 electores), a [[Defensa Provincial-Bandera Blanca]] (23.437 votos, 9,96%, 2 electores), a Unión Nacional (12.283 votos, 5,22%, 1 elector) y a Movimiento del Frente Nacional (11.561 votos, 4,91%, 1 elector).}}
+| 86.566
+| 26,90
+| 321.851
+| 77,38
+|-class=sortbottom
+| '''Total'''
+| '''476'''
+| '''2.441.064'''
+| '''26,78'''
+| '''168'''
+| 1.593.002
+| 18,18
+| 110
+| 1.362.596
+| 16,55
+| 75
+| 511.779
+| 5,84
+| 31
+| 434.823
+| 4,96
+| 23
+| 278.856
+| 3,18
+| 12
+| 258.787
+| 2,95
+| 10
+| 771.078
+| 10,08
+| 47
+| 2.058.131
+| 21,56
+| 9.710.116
+| 85,50
+|}
+
+== Resultados del Colegio Electoral ==
+
+La designación de Arturo Illia como presidente de la Nación en 1963 se realizó mediante el sistema de elección indirecta establecido por la [[Constitución argentina de 1853|Constitución de 1853]], impuesta por la [[Revolución Libertadora (Argentina)|dictadura que gobernó entre 1955 y 1958]]. El sistema indirecto establecía que los ciudadanos elegían electores y eran estos quienes, reunidos colegios electorales organizados en cada provincia y la Capital Federal, debían elegir por mayoría absoluta y en votación separada al presidente y al vicepresidente de la Nación.<ref>Constitución argentina de 1853, artículos 81 a 85.</ref> De este modo la mayoría necesaria era de 239 electores.
+
+Los colegios electorales se reunieron el 31 de julio de 1963, en cada una de las capitales provinciales y en la Ciudad de Buenos Aires. Previamente la UCRP había realizado acuerdos con la [[Federación Nacional de Partidos de Centro|Federación de Partidos de Centro]], el [[Partido Socialista Democrático (Argentina)|Partido Socialista Democrático]], el [[Partido Demócrata Cristiano (Argentina)|Partido Demócrata Cristiano]], la Confederación de Partidos Provinciales y tres electores de la UCRI de La Pampa, que en conjunto sumaban 105 electores, para apoyar a sus candidatos. Con este apoyo la candidatura a presidente de Illia obtuvo 270 votos –31 votos más que el mínimo constitucional necesario– y la candidatura a vicepresidente de Perette obtuvo 269.<ref name="Mazzei">{{cita libro|url=https://books.google.com.ar/books?id=JcdpBgAAQBAJ&pg=PT111&lpg=PT111&dq=elecciones+1963+Illia+2.441.064&source=bl&ots=13MCXRwcdS&sig=l5J1Rrvo-RmVaqJy95NqC34W2Sc&hl=es-419&sa=X&ved=0ahUKEwi0v8uKzITLAhUES5AKHbVXCyI4ChDoAQgsMAI#v=onepage&q=elecciones%201963%20Illia%202.441.064&f=false|título=Bajo el poder de la caballería: El ejército argentino (1962-1973)|capítulo=Azules y colorados (Episodio II). Las elecciones del 7 de julio de 1963|nombre=Daniel |apellido=Mazzei|editorial=Eudeba|año=2012|isbn=9789502320540}}</ref>
+
+=== Presidente ===
+
+{| class="wikitable"
+|-
+! colspan=2| Candidato a Presidente
+! Partido
+! Votos<br/>Electorales
+|-style="font-weight:bold" bgcolor=#cfc
+| bgcolor={{Color político|Unión Cívica Radical del Pueblo}}|
+| [[Arturo Umberto Illia]]
+| [[Unión Cívica Radical del Pueblo]]
+| align=right|270
+|-
+| bgcolor={{Color político|Unión Cívica Radical Intransigente}}|
+| [[Oscar Alende]]
+| [[Unión Cívica Radical Intransigente]]
+| align=right|86
+|-
+| bgcolor={{Color político|Unión del Pueblo Argentino}}|
+| [[Pedro Eugenio Aramburu]]
+| [[Unión del Pueblo Argentino]]
+| align=right|74
+|-
+| bgcolor={{Color político|Partido Socialista Argentino}}|
+| [[Alfredo Palacios]]
+| [[Partido Socialista Argentino]]
+| align=right|12
+|-
+| bgcolor={{Color político|Unión Cívica Radical Intransigente}}|
+| [[Carlos Sylvestre Begnis]]
+| [[Unión Cívica Radical Intransigente]]
+| align=right|11
+|-
+| bgcolor=#75AADB|
+| Alejandro H. Leloir
+| Partido de la Justicia Social
+| align=right|4
+|-
+| bgcolor=#75AADB|
+| Edmundo Eduardo Blanchet
+| Partido Tres Banderas
+| align=right|3
+|-
+| bgcolor=#75AADB|
+| [[Justo León Bengoa]]
+| Partido de la Justicia Social
+| align=right|1
+|-
+| colspan=3|''Voto en blanco''
+| align=right|3
+|-
+! style="text-align:left;" colspan=3|Total de votos
+! style="text-align:right;"|464
+|-
+| colspan=3| No votaron
+| align=right|12
+|-
+! style="text-align:left;" colspan=3|Total de electores
+! style="text-align:right;"|476
+|}
+
+==== Resultados por provincia ====
+
+{| class="wikitable" style="text-align:center;"
+! Provincia !! Illia !! Alende !! Aramburu !! Palacios !! Sylvestre<br/>Begnis !! Leloir !! Blanchet !! Bengoa !! En blanco !!  !! No<br/>votaron
+|-
+| align=left|[[Provincia de Buenos Aires|Buenos Aires]] || 53 || 28 || 17 || 6 ||  ||  ||  ||  ||  || rowspan=23| || 
+|-
+| align=left|[[Capital Federal]] || 32 || 16 || 21 || 5 ||  ||  ||  ||  ||  || 
+|-
+| align=left|[[Provincia de Catamarca|Catamarca]] || 5 || 3 ||  ||  ||  ||  ||  ||  ||  || 
+|-
+| align=left|[[Provincia del Chaco|Chaco]] || 10 || 2 || 2 ||  ||  ||  ||  ||  ||  || 
+|-
+| align=left|[[Provincia del Chubut|Chubut]] || 5 ||  || 1 ||  ||  ||  ||  ||  ||  || 2
+|-
+| align=left|[[Provincia de Córdoba (Argentina)|Córdoba]] || 32 || 1 || 4 ||  ||  ||  ||  ||  ||  || 3
+|-
+| align=left|[[Provincia de Corrientes|Corrientes]] || 9 || 7 ||  ||  ||  ||  ||  ||  ||  || 
+|-
+| align=left|[[Provincia de Entre Ríos|Entre Ríos]] || 11 || 6 || 1 ||  ||  ||  || 3 ||  ||  || 1
+|-
+| align=left|[[Provincia de Formosa|Formosa]] || 5 || 3 ||  ||  ||  ||  ||  ||  ||  || 
+|-
+| align=left|[[Provincia de Jujuy|Jujuy]] || 3 || 4 || 1 ||  ||  ||  ||  ||  ||  || 
+|-
+| align=left|[[Provincia de La Pampa|La Pampa]] || 6 || 1 || 1 ||  ||  ||  ||  ||  ||  || 
+|-
+| align=left|[[Provincia de La Rioja (Argentina)|La Rioja]] || 6 || 1 ||  ||  ||  || 1 ||  ||  ||  || 
+|-
+| align=left|[[Provincia de Mendoza|Mendoza]] || 16 ||  ||  || 1 ||  ||  ||  ||  ||  || 1
+|-
+| align=left|[[Provincia de Misiones|Misiones]] || 4 || 3 || 3 ||  ||  ||  ||  ||  ||  || 
+|-
+| align=left|[[Provincia del Neuquén|Neuquén]] || 7 || 1 ||  ||  ||  ||  ||  ||  ||  || 
+|-
+| align=left|[[Provincia de Río Negro|Río Negro]] || 4 || 3 || 1 ||  ||  ||  ||  ||  ||  || 
+|-
+| align=left|[[Provincia de Salta|Salta]] || 9 || 1 ||  ||  ||  ||  ||  ||  ||  || 
+|-
+| align=left|[[Provincia de San Juan (Argentina)|San Juan]] || 7 ||  ||  ||  ||  ||  ||  ||  || 3 || 
+|-
+| align=left|[[Provincia de San Luis|San Luis]] || 5 ||  ||  ||  ||  ||  ||  ||  ||  || 3
+|-
+| align=left|[[Provincia de Santa Cruz|Santa Cruz]] || 3 || 2 || 2 ||  ||  ||  ||  ||  ||  || 1
+|-
+| align=left|[[Provincia de Santa Fe|Santa Fe]] || 17 ||  || 16 ||  || 11 ||  ||  ||  ||  || 
+|-
+| align=left|[[Provincia de Santiago del Estero|Santiago del Estero]] || 12 ||  || 2 ||  ||  || 1 ||  ||  ||  || 1
+|-
+| align=left|[[Provincia de Tucumán|Tucumán]] || 9 || 4 || 2 ||  ||  || 2 ||  || 1 ||  || 
+|-
+! Total !! 270 !! 86 !! 74 !! 12 !! 11 !! 4 !! 3 !! 1 !! 3 !!  !! 12
+|-
+| colspan=12 align=left|Fuente:<ref name="sesiones">{{Cita libro |título=Diario de Sesiones de la Cámara de Senadores - Año 1962-1963 |año=1964 |editorial=Imprenta del Congreso de la Nación |ubicación=Buenos Aires |volumen=Tomo Único |página=60}}</ref><ref name="cronica">{{Cita noticia |título=Como se votó en los 23 distritos |url=http://publicaciones.bn.gob.ar/s2/001181840/1963/BNA_S001181840_19630801_U.pdf#page=6 |fecha=1 de agosto de 1963 |periódico=[[Crónica (diario argentino)|Crónica]] |página=6 |número=Nº 4}}</ref>
+|}
+
+=== Vicepresidente ===
+
+{| class="wikitable"
+|-
+! colspan=2| Candidato a Vicepresidente
+! Partido
+! Votos<br/>Electorales
+|-style="font-weight:bold" bgcolor=#cfc
+| bgcolor={{Color político|Unión Cívica Radical del Pueblo}}|
+| [[Carlos Humberto Perette]]
+| [[Unión Cívica Radical del Pueblo]]
+| align=right|269
+|-
+| bgcolor={{Color político|Unión Cívica Radical Intransigente}}|
+| [[Celestino Gelsi]]
+| [[Unión Cívica Radical Intransigente]]
+| align=right|80
+|-
+| bgcolor={{Color político|Unión del Pueblo Argentino}}|
+| Arturo J. Etchevehere
+| [[Unión del Pueblo Argentino]]
+| align=right|42
+|-
+| bgcolor={{Color político|Partido Demócrata Progresista}}|
+| Horacio Thedy
+| [[Partido Demócrata Progresista]]
+| align=right|32
+|-
+| bgcolor={{Color político|Partido Socialista Argentino}}|
+| Ramón I. Soria
+| [[Partido Socialista Argentino]]
+| align=right|12
+|-
+| bgcolor={{Color político|Unión Cívica Radical Intransigente}}|
+| [[Julio César Oyhanarte]]
+| [[Unión Cívica Radical Intransigente]]
+| align=right|11
+|-
+| bgcolor={{Color político|Unión Cívica Radical Intransigente}}|
+| [[Carlos Sylvestre Begnis]]
+| [[Unión Cívica Radical Intransigente]]
+| align=right|6
+|-
+| bgcolor=#75AADB|
+| [[Oscar Albrieu]]
+| Partido de la Justicia Social
+| align=right|5
+|-
+| bgcolor=#75AADB|
+| Pedro J. Fernández Oyhamburu
+| Partido Tres Banderas
+| align=right|3
+|-
+| bgcolor={{Color político|Unión Cívica Radical Intransigente}}|
+| [[Oscar Alende]]
+| [[Unión Cívica Radical Intransigente]]
+| align=right|1
+|-
+| colspan=3|''Voto en blanco''
+| align=right|3
+|-
+! style="text-align:left;" colspan=3|Total de votos
+! style="text-align:right;"|464
+|-
+| colspan=3| No votaron
+| align=right|12
+|-
+! style="text-align:left;" colspan=3|Total de electores
+! style="text-align:right;"|476
+|}
+
+==== Resultados por provincia ====
+
+{| class="wikitable" style="text-align:center;"
+! Provincia !! Perette !! Gelsi !! Etchevehere !! Thedy !! Soria !! Oyhanarte !! Sylvestre<br/>Begnis !! Albrieu !! Fernández<br/>Oyhamburu !! Alende !! En blanco !!  !! No<br/>votaron
+|-
+| align=left|[[Provincia de Buenos Aires|Buenos Aires]] || 53 || 27 || 10 || 7 || 6 ||  || 1 ||  ||  ||  ||  || rowspan=23| || 
+|-
+| align=left|[[Capital Federal]] || 32 || 16 || 11 || 10 || 5 ||  ||  ||  ||  ||  ||  || 
+|-
+| align=left|[[Provincia de Catamarca|Catamarca]] || 5 || 3 ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+|-
+| align=left|[[Provincia del Chaco|Chaco]] || 10 || 2 || 1 || 1 ||  ||  ||  ||  ||  ||  ||  || 
+|-
+| align=left|[[Provincia del Chubut|Chubut]] || 5 ||  || 1 ||  ||  ||  ||  ||  ||  ||  ||  || 2
+|-
+| align=left|[[Provincia de Córdoba (Argentina)|Córdoba]] || 32 || 1 || 4 ||  ||  ||  ||  ||  ||  ||  ||  || 3
+|-
+| align=left|[[Provincia de Corrientes|Corrientes]] || 9 || 7 ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+|-
+| align=left|[[Provincia de Entre Ríos|Entre Ríos]] || 11 || 3 || 1 ||  ||  ||  || 3 ||  || 3 ||  ||  || 1
+|-
+| align=left|[[Provincia de Formosa|Formosa]] || 5 || 3 ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+|-
+| align=left|[[Provincia de Jujuy|Jujuy]] || 3 || 4 || 1 ||  ||  ||  ||  ||  ||  ||  ||  || 
+|-
+| align=left|[[Provincia de La Pampa|La Pampa]] || 6 || 1 || 1 ||  ||  ||  ||  ||  ||  ||  ||  || 
+|-
+| align=left|[[Provincia de La Rioja (Argentina)|La Rioja]] || 6 || 1 ||  ||  ||  ||  ||  || 1 ||  ||  ||  || 
+|-
+| align=left|[[Provincia de Mendoza|Mendoza]] || 16 ||  ||  ||  || 1 ||  ||  ||  ||  ||  ||  || 1
+|-
+| align=left|[[Provincia de Misiones|Misiones]] || 3 || 3 || 2 || 1 ||  ||  ||  ||  ||  || 1 ||  || 
+|-
+| align=left|[[Provincia del Neuquén|Neuquén]] || 7 || 1 ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+|-
+| align=left|[[Provincia de Río Negro|Río Negro]] || 4 || 1 ||  || 1 ||  ||  || 2 ||  ||  ||  ||  || 
+|-
+| align=left|[[Provincia de Salta|Salta]] || 9 || 1 ||  ||  ||  ||  ||  ||  ||  ||  || 
+|-
+| align=left|[[Provincia de San Juan (Argentina)|San Juan]] || 7 ||  ||  ||  ||  ||  ||  ||  ||  ||  || 3 || 
+|-
+| align=left|[[Provincia de San Luis|San Luis]] || 5 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 3
+|-
+| align=left|[[Provincia de Santa Cruz|Santa Cruz]] || 3 || 2 || 2 ||  ||  ||  ||  ||  ||  ||  ||  || 1
+|-
+| align=left|[[Provincia de Santa Fe|Santa Fe]] || 17 ||  || 5 || 11 ||  || 11 ||  ||  ||  ||  ||  || 
+|-
+| align=left|[[Provincia de Santiago del Estero|Santiago del Estero]] || 12 ||  || 2 ||  ||  ||  ||  || 1 ||  ||  ||  || 1
+|-
+| align=left|[[Provincia de Tucumán|Tucumán]] || 9 || 4 || 1 || 1 ||  ||  ||  || 3 ||  ||  ||  || 
+|-
+! Total !! 269 !! 80 !! 42 !! 32 !! 12 !! 11 !! 6 !! 5 !! 3 !! 1 !! 3 !!  !! 12
+|-
+| colspan=14 align=left|Fuente:<ref name="sesiones"/><ref name="cronica"/>
+|}
+
+== Véase también ==
+* [[Elecciones legislativas de Argentina de 1963]]
+* [[Elecciones al Senado de Argentina de 1963]]
+
+== Notas ==
+{{listaref|group=lower-alpha}}
+
+== Referencias ==
+{{listaref}}
+
+=== Bibliografía ===
+
+* {{cita web|url=http://www.parlamentario.com/noticia-66708.html|obra=Parlamentario|título=Cincuentenario de las elecciones argentinas de 1963|nombre=Jorge J.|apellido=Cortabarría|fecha=8 de julio de 2013|fechaacceso=19 de febrero de 2016|urlarchivo=https://web.archive.org/web/20160303015001/http://www.parlamentario.com/noticia-66708.html|fechaarchivo=3 de marzo de 2016}}
+* {{cita libro|url=|título=El político armado. Dinámica del proceso político argentino 1960-1971 (1962-1973)||nombre=Carlos S.|apellido=Fayt|editorial=Pannedille|año=1971|isbn=|página=233-234}}
+* {{cita web|url=http://diarioepoca.com/180260/Don-Arturo-Umberto-Illia-un-democrata/|obra=Diario Época|título=Don Arturo Umberto Illia, un demócrata|nombre=Jorge |apellido=Guidi|fecha=14 de septiembre de 2008}}
+*{{cita web|url=http://www.uca.edu.ar/uca/common/grupo32/files/labaqui-2002.pdf|título=Presidencialismo, sistema de partidos y gobernabilidad en la Argentina en dos tiempos: del 'juego imposible' a los años 90|nombre=Ignacio |apellido=Labaqui|obra=Instituto para la Integración del Saber|editorial=Universidad Católica Argentina|fecha=diciembre de 2002|ubicación= Argentina|página=41}}
+* {{cita libro|url=https://books.google.com.ar/books?id=JcdpBgAAQBAJ&pg=PT111&lpg=PT111&dq=elecciones+1963+Illia+2.441.064&source=bl&ots=13MCXRwcdS&sig=l5J1Rrvo-RmVaqJy95NqC34W2Sc&hl=es-419&sa=X&ved=0ahUKEwi0v8uKzITLAhUES5AKHbVXCyI4ChDoAQgsMAI#v=onepage&q=elecciones%201963%20Illia%202.441.064&f=false|título=Bajo el poder de la caballería: El ejército argentino (1962-1973)|capítulo=Azules y colorados (Episodio II). Las elecciones del 7 de julio de 1963|nombre=Daniel |apellido=Mazzei|editorial=Eudeba|año=2012|isbn=9789502320540}}
+*{{cita libro|url=http://mininterior.gov.ar/asuntospoliticos/pdf/HistoriaElectoralArgentina.pdf|título=Historia electoral argentina|nombre=Alicia|apellido=Pugliese|nombre2=Fernando|apellido2=Pereyra|nombre3=Javier|apellido3=Blanco|editorial=Ministerio del Interior|ubicación=Argentina|año=2003|página=118|fechaacceso=19 de febrero de 2016|urlarchivo=https://web.archive.org/web/20170119125214/http://www.mininterior.gov.ar/asuntospoliticos/pdf/HistoriaElectoralArgentina.pdf|fechaarchivo=19 de enero de 2017}}
+*{{cita web|url=http://www.magicasruinas.com.ar/revistero/esto/revdesto329.htm|título=La elección
+una fecha para la historia política del país|obra=Vea y Lea|fecha=25 de julio de 1963|nombre=|apellido=|editorial=Mágicas Ruinas (republicación)|ubicación= Argentina|}}
+
+== Enlaces externos ==
+{{commonscat|1963 Argentine general election}}
+
+{{Control de autoridades}}
+[[Categoría:Elecciones presidenciales de Argentina|1963]]
+[[Categoría:Elecciones en Argentina en 1963]]
+[[Categoría:Arturo Umberto Illia]]
